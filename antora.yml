@@ -1,2 +1,3 @@
 name: antora
 version: '3.2'
+start_page: ROOT:Satzung.adoc

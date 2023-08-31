@@ -1,2 +1,4 @@
 name: satzung
 version: '3.2'
+nav:
+- Satzung.adoc

@@ -1,4 +1,4 @@
 name: satzung
 version: '3.2'
 nav:
-- Satzung.adoc
+- modules/ROOT/Satzung/Satzung.adoc

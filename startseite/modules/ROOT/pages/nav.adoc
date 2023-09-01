@@ -1,0 +1,4 @@
+* xref:startseite:ROOT:index.adoc[]
+* xref:geschaeftsordnung:ROOT:index.adoc[]
+* xref:satzung:ROOT:index.adoc[]
+* xref:wahlordnung:ROOT:index.adoc[]

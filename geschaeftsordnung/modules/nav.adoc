@@ -1,1 +1,1 @@
-include:startseite:nav.adoc[]
+include::startseite::nav.adoc[]

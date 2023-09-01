@@ -1,4 +1,1 @@
-* xref:startseite:ROOT:index.adoc[]
-* xref:geschaeftsordnung:ROOT:index.adoc[]
-* xref:satzung:ROOT:index.adoc[]
-* xref:wahlodnung:ROOT:index.adoc[]
+include::startseite::nav.adoc[]

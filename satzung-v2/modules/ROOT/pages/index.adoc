@@ -117,7 +117,7 @@ Die studentischen Vereinigungen an der Universität tragen zur politischen Wille
 2. in grundsätzlichen Angelegenheiten der Studierendenschaft zu beschließen;
 3. über die Satzung der Studierendenschaft, die Beitragsordnung, die Finanzordnung, die Wahlordnung und die Urabstimmungsordnung zu beschließen;
 4. den Haushaltsplan festzustellen und dessen Durchführung zu kontrollieren;
-5. die Mitglieder des AStA-Vorstandes und das leitende Finanzreferatsmitglied zu wählen, sowie an der weiteren Bildung des AStA gemäß dieser Satzung mitzuwirken;
+5. „die Mitglieder des AStA-Vorstandes, das leitende Finanzreferatsmitglied und ggf. ein stellvertretendes leitendes Finanzreferatsmitglied zu wählen, sowie an der weiteren Bildung des AStA gemäß dieser Satzung mitzuwirken;
 6. die Arbeit des AStA zu kontrollieren;
 7. über die Entlastung der Mitglieder des AStA zu entscheiden;
 8. die studentische Vertretung in die Organe des Studierendenwerks zu wählen; dies gilt auch für die studentische Vertretung in anderen Gremien, falls deren Wahl der Studierendenschaft zu kommt;
@@ -239,7 +239,7 @@ Die in <<_8_amtsfähigkeit_in_der_studierendenschaft, § 8 Absatz 2 Satz 4>>, <<
 
 (2) Mitglieder des SP-Präsidiums können nicht dem AStA angehören.
 
-(3) Der AStA gliedert sich in den Vorstand, das Finanzreferat und die weiteren Referate. Das Finanzreferat besteht aus dem leitenden Finanzreferatsmitglied und den weiteren Referatsmitgliedern. Die Gliederung, die Bezeichnung und der Stellenzuschnitt der Referate, die keine autonomen Referate sind (integrierte Referate), muss sich aus dem Haushaltsplan ergeben. Für die autonomen Referate gilt dies nur für die Anzahl der Stellen im Referat.
+(3) Der AStA gliedert sich in den Vorstand, das Finanzreferat und die weiteren Referate. Das Finanzreferat besteht aus dem leitenden Finanzreferatsmitglied, ggf. einem stellvertretenden leitenden Finanzreferatsmitglied und den weiteren Referatsmitgliedern. Die Gliederung, die Bezeichnung und der Stellenzuschnitt der Referate, die keine autonomen Referate sind (integrierte Referate), muss sich aus dem Haushaltsplan ergeben. Für die autonomen Referate gilt dies nur für die Anzahl der Stellen im Referat.
 
 === § 25 Der Vorstand des AStA
 (1) Der Vorstand bestimmt die Richtlinien der Arbeit des AStA und trägt dafür die Verantwortung. Innerhalb dieser Richtlinien nimmt jedes Referat seinen Aufgabenbereich selbständig und in eigener Verantwortung war. Das Recht der autonomen Referate ihre Aufgaben autonom von Vorgaben des AStA-Vorstand wahrzunehmen bleibt unberührt.
@@ -343,7 +343,7 @@ c. einstimmigen Beschluss des Vorstandes und Zustimmung des SP mit der Mehrheit 
 
 (5) Die Referatsmitglieder sind dem Vorstand jederzeit auskunftspflichtig. Vorstandsmitglieder können ihnen im Einzelfall Weisungen für ihre Arbeit erteilen. Das Recht auf Auskunft und das Weisungsrecht kann vom Vorstand auf andere Referatsmitglieder mitübertragen werden.
 
-(6) Abweichend von Absatz~1 wird das leitende Finanzreferatsmitglied vom SP gewählt. Absatz 2 gilt mit der Maßgabe, dass an Stelle der Ernennung und der Bestätigung die Wahl tritt und eine Befristung nicht zulässig ist. Abweichend von Absatz 3 Buchstabe c kann das leitende Finanzreferatsmitglied nur abgewählt werden, indem das SP mit der Mehrheit seiner satzungsgemäßen Mitglieder eine Nachfolge wählt. Scheidet das leitende Finanzreferatsmitglied vorzeitig aus dem Amt aus, hat der Vorstand mit einem Beschluss unverzüglich bis zur Neuwahl ein anderes Mitglied des AStA mit den Geschäften zu betrauen. In der Einladung für die nächste SP-Sitzung ist eine Neuwahl anzusetzen.
+(6) Abweichend von Absatz 1 wird das leitende Finanzreferatsmitglied und ggf. dessen Stellvertretung vom SP gewählt. Absatz 2 gilt mit der Maßgabe, dass an Stelle der Ernennung und der Bestätigung die Wahl tritt und eine Befristung nicht zulässig ist. Abweichend von Absatz 3 Buchstabe c kann das leitende Finanzreferatsmitglied nur abgewählt werden, indem das SP mit der Mehrheit seiner satzungsgemäßen Mitglieder eine Nachfolge wählt. Scheidet das leitende Finanzreferatsmitglied vorzeitig aus dem Amt aus, rückt das stellvertretende leitende Finanzreferatsmitglied nach. Ist zu diesem Zeitpunkt kein stellvertretendes leitendes Finanzreferatsmitglied im Amt, hat der Vorstand mit einem Beschluss unverzüglich bis zur Neuwahl ein anderes Mitglied des AStA mit den Geschäften zu betrauen. In der Einladung für die nächste SP-Sitzung ist eine Neuwahl anzusetzen.
 
 (7) Die Absätze 1, 2, 3 Buchstabe c und 5 gelten nicht für autonome Referate.
 
@@ -960,7 +960,7 @@ Die Jahresabschlussprüfung erstreckt sich auch auf die Haushaltsführung der Fa
 
 (4) Durch die Zuwendungsempfangenden muss spätestens zwölf Wochen nach Auszahlung der Finanzmittel ein Nachweis über die Verwendung der Finanzmittel im Sinne des im Beschluss genannten Zweckes dem Finanzreferat vorgelegt werden. Wurden die Finanzmittel nicht im Sinne des im Beschluss genannten Zweckes verwendet oder kann der Nachweis über die Verwendung im Sinne des im Beschluss genannten Zweckes nicht erbracht werden, können die Finanzmittel von der Studierendenschaft zurückgefordert werden. Jede weitere Auszahlung von Finanzmitteln an die Zuwendungsempfangenden erfordert dann einen neuen Beschluss.
 
-(5) Die Prüfung nach Absatz 4 obliegt dem leitenden Finanzreferatsmitglied. In strittigen Fällen ist die Prüfung an den Finanzprüfungsausschuss zu überweisen. Die Zuwendungsempfangenden sind anzuhören.
+(5) Die Prüfung nach Absatz 4 obliegt dem leitenden Finanzreferatsmitglied und dem stellvertretenden leitenden Finanzreferatsmitglied. In strittigen Fällen ist die Prüfung an den Finanzprüfungsausschuss zu überweisen. Die Zuwendungsempfangenden sind anzuhören.
 
 (6) Die Zuwendungsempfangenden sind nach der Beschlussfassung auf alle sie betreffenden Regelungen, insbesondere den in den Absätzen 3, 4 und <<_82_finanzbeschlüsse, § 82 Absatz 7>> genannten, hinzuweisen. Bei Beschlussfassung des SP obliegt diese Unterrichtung dem SP-Präsidium, bei Beschlussfassung des AStA-Vorstandes dem AStA-Vorstand, bei Beschlussfassung durch ein Referat dem Referat, bei der Beschlussfassung durch einen Fachschaftsrat der Sitzungskoordination, bei der Beschlussfassung in der FSV dem Vorstand der FSV und bei Beschlussfassung durch ein Gremium nach <<_27_die_autonomen_referate, § 27 Absatz 4>> oder einer FSVV der Versammlungsleitung.
 

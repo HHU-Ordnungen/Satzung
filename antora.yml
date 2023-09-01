@@ -1,4 +1,8 @@
 name: Satzung
 version: 6.9
+content:
+  sources:
+    - url: Satzung/Satzung.adoc
+      branches: main
 nav:
 - Satzung/Satzung.adoc

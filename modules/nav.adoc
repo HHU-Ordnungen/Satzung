@@ -1,2 +1,2 @@
-* xref:Satzung.adoc[]
-* xref:pages/Satzung.adoc[]
+* xref:satzung.adoc[]
+* xref:pages/satzung.adoc[]

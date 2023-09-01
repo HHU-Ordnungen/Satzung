@@ -1,2 +1,4 @@
-* xref:satzung.adoc[]
-** https://google.com
+* xref:ROOT:satzung.adoc[]
+* xref:Satzung:satzung.adoc[]
+* xref:Wahlordnung:satzung.adoc[]
+* xref:Geschäftsordnung:satzung.adoc[]

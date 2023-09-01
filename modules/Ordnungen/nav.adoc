@@ -1,0 +1,2 @@
+* xref:pages/Satzung.adoc[]
+* xref:Satzung.adoc[]

@@ -1,4 +1,5 @@
-name: satzung
-version: 4
+name: ordnungen
+title: Ordnungen
+version: 3
 nav:
 - modules/nav.adoc

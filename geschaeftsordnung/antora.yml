@@ -1,0 +1,5 @@
+name: geschaeftsordnung
+title: Geschäftsordnung
+version: 3
+nav:
+- modules/nav.adoc

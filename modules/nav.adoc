@@ -1,5 +1,0 @@
-* xref:ROOT:satzung.adoc[]
-* xref:satzung:satzung.adoc[]
-* xref:satzung.adoc[]
-* xref:wahlordnung:satzung.adoc[]
-* xref:Geschäftsordnung:satzung.adoc[]

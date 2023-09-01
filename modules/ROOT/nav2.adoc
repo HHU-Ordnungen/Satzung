@@ -1,3 +1,2 @@
 * xref:satzung.adoc[]
 * xref:pages/satzung.adoc[]
-** https://google.com

@@ -2,3 +2,4 @@ name: satzung
 version: 4.202
 nav:
 - modules/nav.adoc
+- modules/ROOT/nav1.adoc

@@ -1,2 +1,1 @@
-= Index Page
-xref:satzung.adoc[]
+= Index.adoc Title

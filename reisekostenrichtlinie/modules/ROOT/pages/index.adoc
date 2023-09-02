@@ -49,6 +49,6 @@ nach der Wohnung der Erstattungsberechtigten, je nachdem ob es sich um eine Hin-
 (5) Die FSVK kann ergänzende Bestimmungen bezüglich der Prüfung der Anträge durch das Fachschaftenreferat und die zu erbringenden Nachweise beschließen.
 
 === § 5 Ergänzende Bestimmungen
-(1) Die in dieser Richtlinie beschriebenen Kosten sind im Sinne des Landesreisekostengesetzes (LRKG NRW) als Dienstreisekosten zu verstehen. In Streitfragen sind die Vorschriften des LRKG NRW entsprechend anzuwenden.
+(1) Die in dieser Richtlinie beschriebenen Kosten sind im Sinne des https://recht.nrw.de/lmi/owa/br_text_anzeigen?v_id=25020220105124746070[Landesreisekostengesetzes (LRKG NRW)] als Dienstreisekosten zu verstehen. In Streitfragen sind die Vorschriften des https://recht.nrw.de/lmi/owa/br_text_anzeigen?v_id=25020220105124746070[LRKG NRW] entsprechend anzuwenden.
 
 (2) Bei Anwendung der Reisekostenrichtlinie können pro Person und Reise nur Kosten bis zu dem in xref:satzung::index.adoc#_49_umbenennung_einer_fachschaft[§ 49 Absatz 2] der Satzung genannten Höchstbetrag erstattet werden. Die Erstattung von Reisekosten über diesen Betrag hinaus bedarf der Zustimmung des SP.

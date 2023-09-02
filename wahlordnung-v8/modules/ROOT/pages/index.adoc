@@ -502,7 +502,6 @@ e. Abbruch einer Wahl.
 (1) Sieht die Satzung einer Fachschaft eine Fachschaftsvertretung (FSV) als weiteres Organ der Fachschaft nach xref:satzung::index.adoc#_46_organe_einer_fachschaft[§ 46 Absatz 2 der Satzung der Studierendenschaft] vor, so gilt Folgendes:
 
 (2) Die Wahl der FSV erfolgt entsprechend den Vorschriften der Satzung (xref:satzung::index.adoc#_63_aufgaben_und_zuständigkeit_der_fsv[§§ 63 – 68]) und dem <<_unterabschnitt_1_wahlen_zu_den_fachschaftsräten, Abschnitt III, Unterabschnitt I>> dieser Wahlordnung, ausgenommen <<_28_wahlsystem_und_größe_des_fachschaftsrates, § 28>> (Wahlsystem) und <<_42_zusammentritt_des_fachschaftsrates, § 42>> (Zusammentritt). Dabei tritt die FSV an die Stelle des Fachschaftsrats und es gelten folgende zusätzliche oder abweichende Regelungen:
-//TODO Abschnitt verlinken
 
 (3) Es findet keine Wahlvollversammlung (<<_29_wahlausschuss, § 29 Absatz 9>>) statt. Die Wahlbekanntmachung muss entsprechend keine Angaben dazu enthalten. Zur Ermittlung von Fristen tritt der 14. Tag vor dem ersten Wahltag an die Stelle der Wahlvollversammlung.
 

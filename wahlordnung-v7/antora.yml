@@ -1,0 +1,5 @@
+name: wahlordnung
+title: Wahlordnung
+version: 7
+nav:
+- modules/nav.adoc

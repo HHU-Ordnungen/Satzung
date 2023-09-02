@@ -1,7 +1,6 @@
 = Darlehensordnung für die Vergabe von Darlehen durch die Studierendenschaft der Heinrich-Heine-Universität Düsseldorf
 
- Präambel
-Die Vergabe von Darlehen ist eine freiwillige Leistung des AStA, auf die kein Rechtsanspruch besteht.
+_Die Vergabe von Darlehen ist eine freiwillige Leistung des AStA, auf die kein Rechtsanspruch besteht._
 
 == I. Allgemeines
 === § 1 Geltungsbereich

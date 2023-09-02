@@ -5,11 +5,18 @@ on:
   pull_request:
     branches: [ "main" ]
   workflow_dispatch:
+  
 jobs:
-  label_issue:
+  trigger_build:
     runs-on: ubuntu-latest
     steps:
-      - env:
-          GH_TOKEN: ${{ github.token }}
-        run: |
-          gh workflow run "Generate Pages" -R HHU-Ordnungen/ordnungen
+      - uses: actions/github-script@v6
+        with:
+          github-token: ${{ secrets.PAT }}
+          script: |
+            await github.rest.actions.createWorkflowDispatch({
+              owner: 'HHU-Ordnungen',
+              repo: 'ordnungen',
+              workflow_id: 'main.yml',
+              ref: 'main'
+            })

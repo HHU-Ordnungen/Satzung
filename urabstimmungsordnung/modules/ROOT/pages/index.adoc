@@ -14,9 +14,7 @@ Die Vorschriften der Wahlordnung zu den Wahlen zum Studierendenparlament (xref:w
 === § 4 Einleitung einer Urabstimmung
 Eine Urabstimmung wird durchgeführt, wenn
 
-a. das Studierendenparlament (SP) dies mit zwei Drittel der Abstimmenden auf Antrag beschließt
-
-oder
+a. das Studierendenparlament (SP) dies mit zwei Drittel der Abstimmenden auf Antrag beschließt oder
 
 b. einem Antrag auf Urabstimmung nach xref:satzung::index.adoc#_7_rechtsgeschäftliche_erklärungen_der_studierendenschaft[§ 7 Absatz 1 Satz 1 der Satzung] (Abstimmungsverlangen) stattgegeben wird.
 

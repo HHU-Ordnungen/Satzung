@@ -1,14 +1,14 @@
 == Urabstimmungsordnung der Studierendenschaft der Heinrich-Heine-Universität
-Düsseldorf
+
 == I. Allgemeines
 === § 1 Geltungsbereich
 Diese Urabstimmungsordnung regelt die Urabstimmungen im Sinne der §§ xref:satzung::index.adoc#_6_diskriminierungsverbot_für_veranstaltungen[6] und xref:satzung::index.adoc#_7_rechtsgeschäftliche_erklärungen_der_studierendenschaft[7] der Satzung der Studierendenschaft der Heinrich-Heine-Universität Düsseldorf.
 
 === § 2 Abstimmungsrecht
-Abstimmungsberechtigt sind alle Mitglieder der Studierendenschaft im Sinne des § 1 Absatz 1 der Satzung.
+Abstimmungsberechtigt sind alle Mitglieder der Studierendenschaft im Sinne des xref:satzung::index.adoc#_1_begriffsbestimmung_und_rechtsstellung[§ 1 Absatz 1 der Satzung].
 
 === § 3 Anwendung der Wahlordnung
-Die Vorschriften der Wahlordnung zu den Wahlen zum Studierendenparlament (WO) über das Wahlverzeichnis (§ 8 WO), die Wahlunterlagen (§ 12 WO), Urnenwahl (§ 13 WO), Briefwahl (§ 14 WO), Wahlsicherung (§ 15 WO), Abbruch der Wahl (§ 16 WO), Wahlauszählung (§ 17 WO), sowie Wahlbericht und Ausschussunterlagen (§ 20 WO) gelten in der jeweils geltenden Fassung entsprechend, soweit diese Ordnung nichts anderes bestimmt. An Stelle der Wahl tritt entsprechend die Abstimmung. Ebenso gelten die Vorschriften der WO in der jeweils geltenden Fassung entsprechend, wenn im Folgenden auf sie verwiesen wird.
+Die Vorschriften der Wahlordnung zu den Wahlen zum Studierendenparlament (xref:wahlordnung::index.adoc[WO]) über das Wahlverzeichnis (xref:wahlordnung::index.adoc#_8_wahlverzeichnis[§ 8 WO]), die Wahlunterlagen (xref:wahlordnung::index.adoc#_12_wahlunterlagen[§ 12 WO]), Urnenwahl (xref:wahlordnung::index.adoc#_13_urnenwahl[§ 13 WO]), Briefwahl (xref:wahlordnung::index.adoc#_14_briefwahl[§ 14 WO]), Wahlsicherung (xref:wahlordnung::index.adoc#_15_wahlsicherung[§ 15 WO]), Abbruch der Wahl (xref:wahlordnung::index.adoc#_16_abbruch_der_wahl[§ 16 WO]), Wahlauszählung (xref:wahlordnung::index.adoc#_17_wahlauszählung[§ 17 WO]), sowie Wahlbericht und Ausschussunterlagen (xref:wahlordnung::index.adoc#_20_wahlbericht_ausschussunterlagen[§ 20 WO]) gelten in der jeweils geltenden Fassung entsprechend, soweit diese Ordnung nichts anderes bestimmt. An Stelle der Wahl tritt entsprechend die Abstimmung. Ebenso gelten die Vorschriften der WO in der jeweils geltenden Fassung entsprechend, wenn im Folgenden auf sie verwiesen wird.
 
 == II. Antragstellung
 === § 4 Einleitung einer Urabstimmung
@@ -93,7 +93,7 @@ Auf Antrag von Antragsberechtigten prüft das SP-Präsidium noch vor Einreichung
 
 (3) Finden Urabstimmungen zusammen mit einer SP-Wahl statt, so werden die Aufgaben des Urabstimmungsausschusses vom Wahlausschuss wahrgenommen. Der Mehraufwand des Wahlausschusses ist mit einer angemessenen Erhöhung der Aufwandsentschädigung zu entschädigen.
 
-(4) § 7 Absätze 2, 4, 5 und 6 der Wahlordnung finden auf den Urabstimmungsausschuss entsprechend Anwendung.
+(4) xref:wahlordnung::index.adoc#_7_wahlausschuss[§ 7 Absätze 2, 4, 5 und 6 der Wahlordnung] finden auf den Urabstimmungsausschuss entsprechend Anwendung.
 
 === § 13 Abstimmungsbekanntmachung
 (1) Der Vorsitz des Urabstimmungsausschusses macht die Abstimmung spätestens am 40. Tag vor dem ersten Abstimmungstag öffentlich durch Aushang an der für die Bekanntmachungen der Studierendenschaft vorgesehenen Anschlagtafel bekannt. Darüber hinaus wird die Urabstimmung über alle öffentliche Kommunikationskanäle des AStA bekannt gemacht. Alle weiteren Publikationsformen sollen nach Maßgabe der Möglichkeiten genutzt werden.
@@ -133,7 +133,7 @@ Auf Antrag von Antragsberechtigten prüft das SP-Präsidium noch vor Einreichung
 (4) Der Urabstimmungsausschuss bestimmt eine Frist bis zu der die Stellungnahmen beim Ausschussvorsitz abzugeben sind. Der Urabstimmungsausschuss kann Beschränkungen und Vorgaben hinsichtlich der Form und des Umfangs der einzelnen Stellungnahmen beschließen, sofern die Vorgaben für alle gleich gelten.
 
 === § 16 Veröffentlichung des Abstimmungsergebnisses
-(1) Für die Veröffentlichung des Abstimmungsergebnisses findet § 18 Absatz 1 der Wahlordnung entsprechend Anwendung.
+(1) Für die Veröffentlichung des Abstimmungsergebnisses findet xref:wahlordnung::index.adoc#_18_veröffentlichung_des_wahlergebnisses[§ 18 Absatz 1 der Wahlordnung] entsprechend Anwendung.
 
 (2) Die Bekanntmachung des Abstimmungsergebnisses muss enthalten:
 

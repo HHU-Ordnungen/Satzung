@@ -1,3 +1,5 @@
+* xref:beitragsordnung::index.adoc[]
+* xref:darlehensordnung::index.adoc[]
 * xref:startseite:ROOT:index.adoc[]
 * xref:geschaeftsordnungfs::index.adoc[]
 * xref:geschaeftsordnungsp:ROOT:index.adoc[]

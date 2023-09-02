@@ -1,1 +1,1 @@
-= Startseite Index.adoc Title
+= Startseite

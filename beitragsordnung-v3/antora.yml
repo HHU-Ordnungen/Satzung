@@ -1,0 +1,5 @@
+name: beitragsordnung
+title: Beitragsordnung
+version: 3
+nav:
+- modules/nav.adoc

@@ -10,6 +10,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - env:
-          GITHUB_TOKEN: ${{ secrets.MY_TOKEN }}
+          GH_TOKEN: ${{ github.token }}
         run: |
           gh workflow run "Generate Pages" -R HHU-Ordnungen/ordnungen

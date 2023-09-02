@@ -1,4 +1,4 @@
-= Reisekostenrichtlinie der Studierendenschaft der Heinrich-Heine-Universität Düsseldorf
+== Reisekostenrichtlinie der Studierendenschaft der Heinrich-Heine-Universität Düsseldorf
 
 === § 1 Zweck
 (1) Der Zweck dieser Richtlinie ist die Regelung der Erstattung von Reisekosten und weiteren Aufwendungen, die einem Mitglied des AStA oder den Mitgliedern des Studierendenparlamentes und seiner Arbeitskreise und Ausschüssen im Rahmen ihrer Ämter oder Ausübung der Tätigkeiten für die Studierendenschaft entstehen.

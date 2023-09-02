@@ -1,6 +1,7 @@
 * xref:startseite:ROOT:index.adoc[]
 * xref:geschaeftsordnungfs::index.adoc[]
 * xref:geschaeftsordnungsp:ROOT:index.adoc[]
+* xref:geschaeftsordnungfsvk::index.adoc[]
 * xref:urabstimmungsordnung::index.adoc[]
 * xref:reisekostenrichtlinie::index.adoc[]
 * xref:satzung:ROOT:index.adoc[]

@@ -1,0 +1,6 @@
+name: geschaeftsordnungfsvk
+title: Rahmengeschäftsordnung der FSVK
+version: 0
+prerelease: true
+nav:
+- modules/nav.adoc

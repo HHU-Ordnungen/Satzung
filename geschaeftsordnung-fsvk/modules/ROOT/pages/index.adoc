@@ -114,7 +114,7 @@ dieses in Textform unter Angabe einer Tagesordnung verlangen. Außerdem hat der 
 (4) Die Einberufung ist ordnungsgemäß, wenn die Versendung der Einladung mindestens sieben Tage und höchstens vierzehn Tage vor der Sitzung erfolgt ist. Darüber hinaus können auch außerhalb dieser Frist Sitzungen einberufen werden, die beschlussfähig sind, sofern diese im Einvernehmen mit den Mitgliedern terminiert wurden.
 
 === § 20 Anwendung der Geschäftsordnung
-Die Abschnitte IV bis einschließlich VII dieser Geschäftsordnung gelten sinngemäß auch für Ausschüsse und Arbeitskreise des SP. Bei dem Verfahren in den Ausschüssen und Arbeitskreisen tritt an die Stelle des SP der Ausschuss oder der Arbeitskreis, an die Stelle der MdSP die Mitglieder des Ausschusses oder des Arbeitskreises, an die Stelle der Fraktionen treten die von eine Fraktion benannten ordentlichen und stellvertretenden Mitglieder und an die Stelle des Präsidiums tritt der Vorsitz.
+Die Abschnitte IV bis einschließlich VII dieser Geschäftsordnung gelten sinngemäß auch für Ausschüsse und Arbeitskreise der FSVK. Bei dem Verfahren in den Ausschüssen und Arbeitskreisen tritt an die Stelle der FSVK der Ausschuss oder der Arbeitskreis, an die Stelle der vertetenden die Mitglieder des Ausschusses oder des Arbeitskreises und an die Stelle des Fachschaftenreferates tritt der Vorsitz.
 
 == IV. Abschnitt Sitzungsdurchführung
 === § 21 Öffentlichkeit
@@ -473,16 +473,6 @@ Das Verfahren richtet sich nach xref:satzung::index.adoc#_18_wahlen_im_sp[§ 18 
 === § 62 Wahl des AStA-Vorstandes
 Zu Beginn der Wahlperiode ist vor der Wahl des AStA-Vorstandes zuerst über die Anzahl der Personen im Vorstand Beschluss zu fassen. Danach kann das SP auf Antrag eine Verringerung oder Erhöhung beschließen. Eine Verringerung jedoch nur, falls die entsprechenden Ämter im Vorstand unbesetzt sind.
 
-=== § 63 Wahl des Rechtsausschusses
-(1) Ist ein vom SP zu wählender Sitz im Rechtsausschuss unbesetzt, so ist die Wahl auf die Tagesordnung der nächsten Sitzung, die keine Dringlichkeitssitzung ist, zu setzen.
-
-(2) Abweichend von <<_60_ablauf_einer_wahl, § 60 Absatz 1>> und <<_61_wahlverfahren, § 61>> richtet sich die Vorschlagberechtigung und das Wahlverfahren nach den Bestimmungen der xref:wahlordnung::index.adoc[Wahlordnung].
-
-(3) Abweichend von <<_65_abwahlen, § 65>> muss ein Antrag auf Abwahl eines Mitgliedes des Rechtsausschusses von mindestens einem Drittel der ordentlichen Mitglieder des SP oder von einer Fraktion oder mehreren Fraktionen, die mindestens ein Drittel der ordentlichen Mitglieder auf sich vereinen, gestellt werden. <<_65_abwahlen, § 65 Absatz 1 Satz 2>> gilt nicht.
-
-=== § 64 Wahl der Mitglieder in den Verwaltungsrat des Studierendenwerkes
-Die ordentlichen Mitglieder und die Ersatzmitglieder werden einzeln gewählt. Ist das erste gewählte ordentliche Mitglied keine Frau, so können bei der Wahl des zweiten ordentlichen Mitgliedes nur Frauen vorgeschlagen werden. Sind nicht beide ordentlichen Mitglieder Frauen, so können bei der Wahl des Ersatzmitgliedes für den Ersatz einer Frau nur Frauen vorgeschlagen werden. Sind beide ordentlichen Mitglieder Frauen, so gilt Satz 2 entsprechend.
-
 === § 65 Abwahlen
 (1) Anträge auf Abwahl sind von einer Fraktion oder einem Viertel der satzungsgemäßen Mitglieder  SP zu stellen und in Textform beim Präsidium einzureichen. Sie müssen eine Person zur Nachfolge enthalten. <<_55_einreichung_von_anträgen, § 55 Absatz 2 Sätze 1 und 3>> gilt entsprechend.
 
@@ -492,12 +482,6 @@ Die ordentlichen Mitglieder und die Ersatzmitglieder werden einzeln gewählt. Is
 
 (4) Für Abwahlen des Vorsitzes oder stellvertretenden Vorsitzes eines Ausschusses oder Arbeitskreises gelten die vorstehenden Absätze entsprechend.
 
-=== § 66 Entwürfe von Haushaltsplänen und von Nachträgen
-(1) Dem Vorsitz des HHA ist spätestens drei Wochen vor der Sitzung des SP vom AStA mitzuteilen, wenn in dieser Sitzung der Haushaltsplan festgestellt werden soll. Der Haushaltsplan ist dann mindestens zwei Wochen vor der Sitzung des SP dem HHA vorzulegen. Der Vorsitz des HHA beruft eine Sitzung ein. Auf dieser erarbeitet der HHA zusammen mit dem leitenden Finanzreferatsmitglied eine Stellungnahme für die Beschlussfassung im SP. Der Haushaltsplan, mit den eingearbeiteten vom HHA beschlossenen Änderungsanträgen, und die Stellungnahme ist bis zur Antragsfrist dem Präsidium zu übermitteln.
-
-(2) Der Haushaltsplan und die Stellungnahme sind in die Einladung und den Tagesordnungsvorschlag der SP-Sitzung aufzunehmen. Wird der Haushaltsplan vom SP nicht festgestellt, so ist er erneut im HHA zu beraten.
-
-(3) Für den Ablauf der Beratungen im HHA und im SP gilt <<_56_änderungsanträge, § 56>> und <<_57_behandlung_von_anträgen, § 57 Absätze 2 bis 5>> entsprechend.
 
 === § 67 Anfragen
 (1) Anfragen sind in Textform bis zur Antragsfrist beim Präsidium einzureichen. Die Anfragen sind vom SP-Präsidium gesondert an die Angefragten weiterzuleiten. Anfragen, die das Abstimmungsverhalten betreffen, sind unzulässig. Für die Aufnahme in den Tagesordnungsvorschlag gilt <<_57_behandlung_von_anträgen, § 57 Absatz 1>> entsprechend.

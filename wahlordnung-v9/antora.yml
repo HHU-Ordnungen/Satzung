@@ -1,0 +1,6 @@
+name: wahlordnung
+title: Wahlordnung
+version: 9
+prerelease: true
+nav:
+- modules/nav.adoc

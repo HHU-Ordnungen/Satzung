@@ -6,56 +6,76 @@ WARNING: Nicht Offiziell
 
 CAUTION: Enthält für die Ordnung unnötige anmerkungen
 
-//TODO Wahl des FS-Refs siehe §70 (2) & §28 (2)
-
+NOTE: Personen die ihre Fachschaft auf der FSVK representieren werden in dieser Ordnung mit MdFSVK abgekürzt. Ich bin für jede besser bezeichnung offen.
 
 == I. Abschnitt Einberufung von Sitzungen
 === § 2 Sitzungstermine
 (1) Die FSVK tagt in der Regel während der Vorlesungszeit alle zwei Wochen und in der vorlesungsfreien Zeit alle vier Wochen. Sie ist mindestens viermal im Semester einzuberufen.
 
-CAUTION: Direkt aus der Satzung kopiert, gehört aber eher hier hin. Zumindest der teil mit "in der Regel". xref:satzung::index.adoc#_72_einberufung_der_fsvk[§72 (4)]
+CAUTION: Direkt aus der Satzung kopiert, gehört aber eher hier hin. Zumindest der teil mit "in der Regel". xref:satzung::index.adoc#_72_einberufung_der_fsvk[Satzung §72 (4)]
 
 (2) Das Fachschaftenreferat soll die geplanten Sitzungstermine jeweils für die kommenden 2 bis 3 Sitzungen im Voraus öffentlich bekannt machen.
 
 === § 3 Einberufung
-(1) Die Einberufung der Sitzungen des FSVK erfolgt in Form einer Einladung an die Fachschaften nach xref:satzung::index.adoc#_44_fachschaften[§44 (3)] und einer öffentlichen Bekanntmachung der Einladung durch das Fachschaftenreferat.
+(1) Die Einberufung der Sitzungen des FSVK erfolgt in Form einer Einladung an die Fachschaften, nach xref:satzung::index.adoc#_44_fachschaften[Satzung §44 (3)], die MdFSVK und einer öffentlichen Bekanntmachung der Einladung durch das Fachschaftenreferat.
 
 (2) Das Fachschaftenreferat hat zum nächstmöglichen Termin eine Sitzung einzuberufen, wenn
 
 1. wenn mehr als ein Drittel der Mitglieder,
 2. der AStA-Vorstand oder
-3. ein Ausschuss des Parlamentes
+3. das Fachschaftenreferat
 
 dieses in Textform unter Angabe einer Tagesordnung verlangen. Außerdem hat es zu den nach <<_2_sitzungstermine, § 2 Absatz 2>> bekannt gemachten Terminen eine Sitzung einzuberufen, sofern nicht aus wichtigem Grund ein Sitzungstermin abgesagt wird.
 
 (3) Die Einberufung ist ordnungsgemäß, wenn die öffentliche Bekanntmachung und die Versendung der Einladung mindestens sieben Tage und höchstens vierzehn Tage vor der Sitzung erfolgt ist.
 
 === § 4 Einladung
-(1) Die Einladung ist in Textform an die Fachschaften nach xref:satzung::index.adoc#_44_fachschaften[§44 (3)] zu richten. Nachrichtlich ergeht die Einladung an den AStA-Vorstand, das leitende Finanzreferatsmitglied, die Vorsitzenden der Ausschüsse und Arbeitskreise der FSVK, den Vorsitz des Rechtsausschusses, die Antrag- und Anfragenstellenden der Anträge und Anfragen, die auf den Tagesordnungsvorschlag aufgenommen worden sind und die Angefragten. Antragstellende, deren Anträge nicht auf den Tagesordnungsvorschlag aufgenommen wurden, sind vom Präsidium hierüber, als auch über die Möglichkeit der Aufnahme von Anträgen auf der SP-Sitzung, zu unterrichten.
+(1) Die Einladung ist in Textform an die MdFSVK, zu richten.
+Nachrichtlich ergeht die Einladung an:
 
-NOTE: Welche der Personengruppen müssten auftauchen, und welche würde es sowieso nicht tun.
+* Fachschaften nach xref:satzung::index.adoc#_44_fachschaften[Satzung §44 (3)],
+* den AStA-Vorstand,
+* die Vorsitzenden der Ausschüsse und Arbeitskreise der FSVK,
+* die Antrag- und Anfragenstellenden der Anträge und Anfragen,
+* die auf den Tagesordnungsvorschlag aufgenommen worden sind und die Angefragten.
+
+Antragstellende, deren Anträge nicht auf den Tagesordnungsvorschlag aufgenommen wurden, sind vom Präsidium hierüber, als auch über die Möglichkeit der Aufnahme von Anträgen auf der SP-Sitzung, zu unterrichten.
+
+NOTE: Gehören hier weitere Gruppen hin?
 
 (2) Die Einladung beinhaltet die Angabe von Sitzungsort, Sitzungsbeginn, einen Tagesordnungsvorschlag, die Protokolle, die noch nicht genehmigt worden sind, und die Materialien der Verhandlungsgegenstände des Tagesordnungsvorschlages.
 
 (3) Der Tagesordnungsvorschlag muss enthalten:
 
-1. Feststellung der Ordnungsmäßigkeit der Einladung, Feststellung der Beschlussfähigkeit, Genehmigung der Protokolle, Genehmigung der Tagesordnung (Regularia),
-2. Bericht des Fachschaftenreferates, des AStA-Vorstandes, des SP-Präsidiums, sowie aus Ausschüssen, Arbeitskreisen und sonstigen Gremien (Berichte),
+1. Regularia
+
+    Feststellung der Ordnungsmäßigkeit der Einladung,
+    Feststellung der Beschlussfähigkeit
+    Genehmigung der Protokolle,
+    Genehmigung der Tagesordnung,
+
+2. Berichte
+
+    Bericht des Fachschaftenreferates,
+    des AStA-Vorstandes,
+    des SP-Präsidiums,
+    sowie aus Ausschüssen, Arbeitskreisen und sonstigen Gremien,
+
 3. Verschiedenes.
 
 === § 5 Sitzungszeit
 Bei der Terminierung der Sitzungen der FSVK, sowie seiner Ausschüsse und Arbeitskreise sind parallel stattfindende Sitzungen anderer universitärer Gremien und solcher der studentischen Selbstverwaltung angemessen zu berücksichtigen. Zur angemessenen Berücksichtigung von Lehrveranstaltungen sollten Sitzungen in der Vorlesungszeit nach 18 Uhr stattfinden.
 
 === § 6 Dringlichkeitssitzungen
-(1) In Fällen von außerordentlicher Dringlichkeit muss eine Sitzung der FSVK durch das Fachschaftenreferat einberufen werden, wenn dieses über ein drittel Stimmberechtigten vertretenden der Fachschaften durch ihre Unterschrift unter Angabe einer Tagesordnung gegenüber dem Fachschaftenreferat fordern.
+(1) In Fällen von außerordentlicher Dringlichkeit muss eine Sitzung der FSVK durch das Fachschaftenreferat einberufen werden, wenn dieses über ein drittel der MdFSVK durch ihre Unterschrift unter Angabe einer Tagesordnung gegenüber dem Fachschaftenreferat fordern.
 
-(2) Die vertretenden der Fachschaften verpflichten sich mit ihrer Unterschrift zur Teilnahme an der Dringlichkeitssitzung. Sollten sie verhindert sein, so haben sie Sorge zu tragen, dass eine Vertretung anwesend ist.
+(2) Die MdFSVK verpflichten sich mit ihrer Unterschrift zur Teilnahme an der Dringlichkeitssitzung. Sollten sie verhindert sein, so haben sie Sorge zu tragen, dass eine Vertretung anwesend ist.
 
 (3) Die Sitzung darf frühestens 3 Tage nach Erhalt der Forderung stattfinden.
 
-CAUTION: Hier gibts nicht viel spielraum wegen xref:satzung::index.adoc#_72_einberufung_der_fsvk[§72 (5)]
+CAUTION: Hier gibts nicht viel spielraum wegen xref:satzung::index.adoc#_72_einberufung_der_fsvk[Satzung §72 (5)]
 
-(4) Darüber hinaus können in dringenden Fällen auch außerhalb der Fristen nach Absatz 3 und <<_3_einberufung, § 3 Absatz 3>> Sitzungen einberufen werden, die beschlussfähig sind, sofern diese im Einvernehmen mit über einem drittel der Vertretenden terminiert wurden.
+(4) Darüber hinaus können in dringenden Fällen auch außerhalb der Fristen nach Absatz 3 und <<_3_einberufung, § 3 Absatz 3>> Sitzungen einberufen werden, die beschlussfähig sind, sofern diese im Einvernehmen mit über einem drittel der MdFSVK terminiert wurden.
 
 (5) Im Fall einer dringlichen Einberufung ohne Einhaltung der Frist nach <<_3_einberufung, § 3 Absatz 3>> können auf dieser Sitzung
 
@@ -63,23 +83,20 @@ CAUTION: Hier gibts nicht viel spielraum wegen xref:satzung::index.adoc#_72_einb
 2. keine Wahlen durchgeführt werden,
 3. keine Abwahlen durchgeführt werden und
 4. keine Neugliederung von Fachschaften
-5. Richtlinien nach xref:satzung::index.adoc#_70_aufgaben_und_zuständigkeit_der_fsvk[§70 (1) Nr.2] beschließen
-6. Änderungen am Verteilschlüssel nach xref:satzung::index.adoc#_76_beiträge[§76 (3)] vornehmen
+5. Richtlinien nach xref:satzung::index.adoc#_70_aufgaben_und_zuständigkeit_der_fsvk[Satzung §70 (1) Nr.2] beschließen
+6. Änderungen am Verteilschlüssel nach xref:satzung::index.adoc#_76_beiträge[Satzung §76 (3)] vornehmen
 
 === § 11 Amtszeiten
-(3) Die Fachschaften legen ihre vertretung selbständig fest. Beschießt eine Fachschaft die Abwahl ihrer vertretung, ist das Fachschaftenreferat darüber in Textform zu informieren.
+(3) Die Fachschaften legen ihre vertretung selbständig fest. Beschießt eine Fachschaft die Abwahl ihrer vertretung, ist das Fachschaftenreferat darüber in Textform zu informieren. Im falle der Neuwahl der Fachschaftsrates ist hierfür die übergabe der Konstituierungsprotokolles nach xref:wahlordnung::index.adoc[Wahlordnung §42 (1)] ausreichend.
 
 == III. Abschnitt Ausschüsse und Arbeitskreise
 === 12 Einsetzung von Ausschüssen und Arbeitskreisen
 Zur Erfüllung der Aufgaben der FSVK und zur Vorbereitung und Unterstützung seiner Arbeit können durch Beschluss des SP Arbeitskreise oder Ausschüsse eingesetzt werden.
 
-=== § 13 Sitzverteilung der Ausschüsse und Arbeitskreise
-(1) Im Beschluss zur Einsetzung eines Ausschusses oder Arbeitskreis ist die Anzahl der Sitze im Ausschuss bzw. Arbeitskreis festzulegen.
+=== § 13 Mitglieder der Ausschüsse und Arbeitskreise
+(1) Im Beschluss zur Einsetzung eines Ausschusses oder Arbeitskreis ist die Anzahl der Sitze im Ausschuss bzw. Arbeitskreis festzulegen. Im Beschluss zur Einsetzung eines Arbeitskreises können weitere beratende Mitglieder ohne Stimmrecht vorgesehen werden.
 
-=== § 14 Bestellung der Mitglieder
-(1) Die FSVK bestellt die Ausschüsse und Arbeitskreise, durch beschluss. Im Beschluss zur Einsetzung eines Arbeitskreises können weitere beratende Mitglieder ohne Stimmrecht vorgesehen werden.
-
-(2) Die vertretenden sind verpflichtet mitzuteilen, welche Mitglieder aus den Ausschüssen und Arbeitskreisen abberufen werden.
+(2) Die MdFSVK sind verpflichtet mitzuteilen, welche Mitglieder aus den Ausschüssen und Arbeitskreisen abberufen werden.
 
 (3) Die Benennungen und Abberufungen erfolgen durch Erklärung auf der FSVK gegenüber dem Fachschaftenreferat und werden im Protokoll festegehalten. Mit der Benennung gibt der vertretende die HHU-E-Mail-Adresse des Mitglieds an.
 
@@ -88,186 +105,191 @@ Zur Erfüllung der Aufgaben der FSVK und zur Vorbereitung und Unterstützung sei
 
 (2) Bis zur Wahl des Vorsitzes oder wenn der Vorsitz und die Stellvertretung nicht mehr im Amt ist oder den Aufgaben nicht mehr nachkommt, nimmt das Fachschaftenreferat die Aufgaben wahr. Alternativ kann die FSVK durch Beschluss einen Interimsvorsitz benennen.
 
-CAUTION: Hier müssen noch die Aufgaben festgehalten werden. Kurzgefasst: Koordination & ergebnisse berichten
+CAUTION: Hier müssen noch die Aufgaben des Vorsitzes festgehalten werden. Kurzgefasst: Koordination & ergebnisse berichten
 
 === § 16 Ständige Ausschüsse und weitere Ausschüsse
 (1) Ständige Ausschüsse der FSVK sind
 
 1. der Wahlprüfungsausschuss (WPA) mit fünf Mitgliedern.
 
-WARNING: Ab hier mach ich später.
-//TODO
+=== § 17 Regelungen zum Wahlprüfungsausschuss
+
+Näheres zum Wahlprüfungsausschuss regelt xref:wahlordnung::index.adoc#_43_wahlprüfungsausschuss[§43 der Wahlordnung]
 
 === § 19 Einberufung eines Ausschusses oder Arbeitskreises
-(1) Die Einberufung zu Sitzungen der Ausschüsse und Arbeitskreise erfolgt in Form einer Einladung in Textform an die Mitglieder durch den Vorsitz. Nachrichtlich ergeht die Einladung an den AStAVorstand, die MdSP, den E-Mailverteiler sp-offen und die Antragstellenden der Anträge, die in den Tagesordnungsvorschlag aufgenommen worden sind. Einladungen des HHA ergehen zusätzlich an das Finanzreferat.
+(1) Die Einberufung zu Sitzungen der Ausschüsse und Arbeitskreise erfolgt in Form einer Einladung in Textform an die Mitglieder durch den Vorsitz. Nachrichtlich ergeht die Einladung an:
+
+* den AStA Vorstand,
+* die MdFSVK,
+* den E-Mailverteiler fs-offen
+* und die Antragstellenden der Anträge, die in den Tagesordnungsvorschlag aufgenommen worden sind.
 
 (2) Die Einladung beinhaltet mindestens die Angabe von Sitzungsort, Sitzungsbeginn und einen Tagesordnungsvorschlag.
 
 (3) Der Vorsitz hat eine Sitzung einzuberufen, wenn
 
 1. mehr als die Hälfte der ordentlichen Mitglieder,
-2. der AStA-Vorstand oder
-3. das SP
+2. das Fachschaftenreferat oder
+3. die FSVK
 
 dieses in Textform unter Angabe einer Tagesordnung verlangen. Außerdem hat der Vorsitz eine Sitzung einzuberufen, sofern dies zur Wahrnehmung der Aufgaben des Ausschusses oder Arbeitskreis erforderlich ist oder der Ausschuss oder Arbeitskreis eine Sitzung vereinbart hatte.
 
 (4) Die Einberufung ist ordnungsgemäß, wenn die Versendung der Einladung mindestens sieben Tage und höchstens vierzehn Tage vor der Sitzung erfolgt ist. Darüber hinaus können auch außerhalb dieser Frist Sitzungen einberufen werden, die beschlussfähig sind, sofern diese im Einvernehmen mit den Mitgliedern terminiert wurden.
 
 === § 20 Anwendung der Geschäftsordnung
-Die Abschnitte IV bis einschließlich VII dieser Geschäftsordnung gelten sinngemäß auch für Ausschüsse und Arbeitskreise der FSVK. Bei dem Verfahren in den Ausschüssen und Arbeitskreisen tritt an die Stelle der FSVK der Ausschuss oder der Arbeitskreis, an die Stelle der vertetenden die Mitglieder des Ausschusses oder des Arbeitskreises und an die Stelle des Fachschaftenreferates tritt der Vorsitz.
+Die <<_iv_abschnitt_sitzungsdurchführung, Abschnitte IV>> bis einschließlich <<_vii_abschnitt_anträge_zur_geschäftsordnung, VII>> dieser Geschäftsordnung gelten sinngemäß auch für Ausschüsse und Arbeitskreise der FSVK. Bei dem Verfahren in den Ausschüssen und Arbeitskreisen tritt an die Stelle des FSVK der Ausschuss oder der Arbeitskreis, an die Stelle der MdFSVK die Mitglieder des Ausschusses oder des Arbeitskreises und an die Stelle des Fachschaftenreferates tritt der Vorsitz.
 
 == IV. Abschnitt Sitzungsdurchführung
 === § 21 Öffentlichkeit
-(1) Die Sitzungen des SP sind öffentlich.
+(1) Die Sitzungen der FSVK sind öffentlich.
 
-(2) Ton-, Bild- und Filmaufnahmen sind vor der Sitzung bei dem Präsidium anzuzeigen. Spätestens zu Sitzungsbeginn hat die Sitzungsleitung die anwesenden MdSP zu befragen, ob sie Aufnahmen zustimmen. Der Antrag gilt als angenommen, wenn keines der Parlamentsmitglieder Einspruch erhebt.
+(2) Ton-, Bild- und Filmaufnahmen sind vor der Sitzung bei dem Fachschaftenreferat anzuzeigen. Spätestens zu Sitzungsbeginn hat die Sitzungsleitung die anwesenden MdFSVK zu befragen, ob sie Aufnahmen zustimmen. Der Antrag gilt als angenommen, wenn keines der MdFSVK Einspruch erhebt.
 
 === § 22 Ausschluss der Öffentlichkeit
-(1) Die Öffentlichkeit ist für einzelne TOPs auszuschließen, wenn Personalangelegenheiten von Angestellten der Studierendenschaft behandelt werden. Sollten Personalangelegenheiten von ehrenamtlich Tätigen besprochen werden, so sind diese grundsätzlich unter Ausschluss der Öffentlichkeit zu behandeln. Wird von der betroffenen Person bei der Sitzungsleitung Einspruch gegen die Nichtöffentlichkeit eingelegt, so kann dieser Einspruch nur mit einfacher Mehrheit der Abstimmenden auf Antrag einer Fraktion aufgehoben werden.
+(1) Die Öffentlichkeit ist für einzelne TOPs auszuschließen, wenn Personalangelegenheiten von Angestellten der Studierendenschaft behandelt werden. Sollten Personalangelegenheiten von ehrenamtlich Tätigen besprochen werden, so sind diese grundsätzlich unter Ausschluss der Öffentlichkeit zu behandeln. Wird von der betroffenen Person bei der Sitzungsleitung Einspruch gegen die Nichtöffentlichkeit eingelegt, so kann dieser Einspruch nur mit einfacher Mehrheit der Abstimmenden aufgehoben werden.
 
 (2) Die Öffentlichkeit ist für einzelne TOPs auszuschließen, wenn Angelegenheiten, deren Veröffentlichung der Studierendenschaft erheblichen Schaden zufügen könnte, behandelt werden.
 
 (3) Die Öffentlichkeit ist für einzelne TOPs auszuschließen, wenn die Satzung oder eine Ordnung dies zwingend vorsieht.
 
-(4) Der Antrag auf Ausschluss der Öffentlichkeit kann von MdSP und von Mitgliedern des AStA gestellt werden.
+(4) Der Antrag auf Ausschluss der Öffentlichkeit kann von MdFSVK und von Mitgliedern des Fachschaftenreferates gestellt werden.
 
-(5) Die Begründung, Beratung und Entscheidung eines Antrages, die Öffentlichkeit auszuschließen, müssen während der Sitzung und im Vorfeld nicht-öffentlich erfolgen. Über die Nichtöffentlichkeit einer Sitzung oder ob einzelne TOPs nicht-öffentlich gehalten werden, entscheidet das SP mit einfacher Mehrheit.
+(5) Die Begründung, Beratung und Entscheidung eines Antrages, die Öffentlichkeit auszuschließen, müssen während der Sitzung und im Vorfeld nicht-öffentlich erfolgen. Über die Nichtöffentlichkeit einer Sitzung oder ob einzelne TOPs nicht-öffentlich gehalten werden, entscheidet die FSVK mit einfacher Mehrheit.
 
 (6) Anwesend auf einem nicht-öffentlichen Teil einer Sitzung dürfen sein
 
-1. MdSP,
-2. Mitglieder des AStA,
-3. die Vorsitzenden der vom Verhandlungsgegenstand betroffenen Ausschüsse und Arbeitskreise,
-4. der Vorsitz des Rechtsausschusses,
-5. die vom Verhandlungsgegenstand unmittelbar betroffenen Personen und
-6. die vom SP auf Antrag zugelassenen Personen.
+1. MdFSVK,
+2. Mitglieder des AStA Vorstandes,
+3. Mitglieder des Fachschaftenreferates
+4. die Vorsitzenden der vom Verhandlungsgegenstand betroffenen Ausschüsse und Arbeitskreise,
+5. der Vorsitz des Rechtsausschusses,
+6. die vom Verhandlungsgegenstand unmittelbar betroffenen Personen und
+7. die von der FSVK auf Antrag zugelassenen Personen.
 
 Die Anwesenden in einem nicht-öffentlichen Teil der Sitzung sind zur Verschwiegenheit verpflichtet.
 
 === § 23 Aussprache über Verhandlungsgegenstände
 (1) Die Sitzungsleitung hat über jeden Verhandlungsgegenstand, der auf der Tagesordnung steht, die Aussprache zu eröffnen, wenn sie nicht unzulässig oder an besondere Bedingungen geknüpft ist. Werden in einem TOP mehrere Verhandlungsgegenstände beraten, so ist die Aussprache über alle Verhandlungsgegenstände gemeinsam zu eröffnen, sofern diese Geschäftsordnung nicht ein anderes Verfahren vorsieht.
 
-(2) In öffentlichen Sitzungen haben alle Mitglieder der Studierendenschaft Rederecht. Anderen Personen kann durch die Sitzungsleitung, nicht jedoch gegen den Willen der Mehrheit der MdSP, ein Rederecht eingeräumt werden.
+(2) In öffentlichen Sitzungen haben alle Mitglieder der Studierendenschaft Rederecht. Anderen Personen kann durch die Sitzungsleitung, nicht jedoch gegen den Willen der Mehrheit der MdFSVK, ein Rederecht eingeräumt werden.
 
 (3) Die Sitzungsleitung erteilt das Rederecht und legt die Reihenfolge der Wortbeiträge gemäß der Redeliste fest. Die Sitzungsleitung kann Rückfragen gestatten.
 
-(4) Ist die Redeliste erschöpft oder meldet sich niemand zu Wort, so erklärt die Sitzungsleitung die Aussprache für geschlossen. Die Aussprache ist auf Antrag sofort zu schließen, wenn das SP dies mit zwei Drittel Mehrheit der Abstimmenden beschließt.
+(4) Ist die Redeliste erschöpft oder meldet sich niemand zu Wort, so erklärt die Sitzungsleitung die Aussprache für geschlossen. Die Aussprache ist auf Antrag sofort zu schließen, wenn die FSVK dies mit zwei Drittel Mehrheit der Abstimmenden beschließt.
 
-(5) Wiedereintritt in die Aussprache kann dann das SP nur mit zwei Drittel Mehrheit der Abstimmenden beschließen.
+(5) Wiedereintritt in die Aussprache kann dann die FSVK nur mit zwei Drittel Mehrheit der Abstimmenden beschließen.
 
 === § 24 Redeliste
-(1) Die Redeliste wird in der Reihenfolge der Wortmeldungen genderquotiert geführt. Hierfür kann jedes MdSP der Sitzungsleitung sowohl das persönlich zugehörig fühlende Gender als auch das bevorzugte Personalpronomen nennen. Dies ist durch die Sitzungsleitung bei der Quotierung der Redeliste zu berücksichtigen. Darüber hinaus werden Wortmeldungen von MdSP, die zu diesem TOP noch nicht zu Wort gekommen sind, jedenfalls vorgezogen.
+(1) Die Redeliste wird in der Reihenfolge der Wortmeldungen genderquotiert geführt. Hierfür kann jedes MdFSVK der Sitzungsleitung sowohl das persönlich zugehörig fühlende Gender als auch das bevorzugte Personalpronomen nennen. Dies ist durch die Sitzungsleitung bei der Quotierung der Redeliste zu berücksichtigen. Darüber hinaus werden Wortmeldungen von MdFSVK, die zu diesem TOP noch nicht zu Wort gekommen sind, jedenfalls vorgezogen.
 
-(2) Auf eine Wortmeldung darf eine Person nur dann sofort antworten, wenn sich die zuvor sprechende Person auf sie bezogen oder sie persönlich angesprochen hat. Im Zweifelsfalle entscheidet die Sitzungsleitung über die sofortige Zulassung der Wortmeldung. Die Antwort im Sinne von Satz 1 wird durch das gleichzeitige Heben beider Hände angezeigt.
+(2) Auf eine Wortmeldung darf eine Person nur dann sofort antworten, wenn sich die zuvor sprechende Person auf sie bezogen oder sie persönlich angesprochen hat. Im Zweifelsfalle entscheidet die Sitzungsleitung über die sofortige Zulassung der Wortmeldung.
 
-(3) Die Redeliste ist zu schließen, wenn das SP dies auf Antrag beschließt. Die noch auf der Redeliste befindlichen Personen sind zu verlesen. Vor dem Schluss der Redeliste ist jeder anwesenden Person mit Rederecht Gelegenheit zu geben, sich noch auf diese setzen zu lassen.
+(3) Die Redeliste ist zu schließen, wenn die FSVK dies auf Antrag beschließt. Die noch auf der Redeliste befindlichen Personen sind zu verlesen. Vor dem Schluss der Redeliste ist jeder anwesenden Person mit Rederecht Gelegenheit zu geben, sich noch auf diese setzen zu lassen.
 
 === § 25 Recht auf jederzeitiges Gehör
-(1) Die Mitglieder des AStA sind jederzeit zu hören, sofern über Angelegenheiten, die in ihrem Aufgabenbereich fallen, beraten wird. Während einer Aussprache genügt die Aufnahme der Wortmeldung in die Redeliste.
+(1) Die Mitglieder des Fachschaftenreferates sowie des AStA Vorstandes sind jederzeit zu hören, sofern über Angelegenheiten, die in ihrem Aufgabenbereich fallen, beraten wird. Während einer Aussprache genügt die Aufnahme der Wortmeldung in die Redeliste.
 
 (2) War die Aussprache oder die Redeliste bei der Wortmeldung bereits geschlossen, so ist die Aussprache bzw. die Redeliste wieder offen.
 
 === § 26 Persönliche Erklärungen
-(1) Eine Meldung für eine Erklärung nach den §§ <<_27_erklärung_zur_aussprache, 27>> bis <<_29_erklärung_außerhalb_der_tagesordnung, 29>> wird durch das gleichzeitige Heben beider Hände deutlich gemacht. Die Erklärung darf nicht länger als fünf Minuten dauern und ist spätestens 24 Stunden nach Sitzungsende beim Präsidium in Textform für das Protokoll einzureichen, worauf von der Sitzungsleitung hinzuweisen ist. Wird die persönliche Erklärung nicht fristgerecht eingereicht, ist dies im Protokoll zu vermerken.
+(1) Eine Meldung für eine Erklärung nach den §§ <<_27_erklärung_zur_aussprache, 27>> bis <<_29_erklärung_außerhalb_der_tagesordnung, 29>> wird durch das gleichzeitige Heben beider Hände deutlich gemacht. Die Erklärung darf nicht länger als fünf Minuten dauern und ist spätestens 24 Stunden nach Sitzungsende beim Fachschaftenreferat in Textform für das Protokoll einzureichen, worauf von der Sitzungsleitung hinzuweisen ist. Wird die persönliche Erklärung nicht fristgerecht eingereicht, ist dies im Protokoll zu vermerken.
 
-(2) Persönliche Erklärungen sind so einzureichen, dass sie keine namentliche Nennung von MdSP enthält, sofern sich diese explizit auf ein Abstimmungsverhalten beziehen. Diese Regelung gilt nicht für namentliche Abstimmungen.
+(2) Persönliche Erklärungen sind so einzureichen, dass sie keine namentliche Nennung von MdFSVK enthält, sofern sich diese explizit auf ein Abstimmungsverhalten beziehen. Diese Regelung gilt nicht für namentliche Abstimmungen.
 
-(3) Persönliche Erklärungen sind MdSP und AStA-Vorstandsmitgliedern vorbehalten. Außerdem können alle weiteren AStA-Mitglieder und Fachschaftsratsmitglieder bei persönlicher oder sachlicher Betroffenheit, sowie Antragstellende des aktuellen TOP eine persönliche Erklärung abgeben.
+(3) Persönliche Erklärungen sind MdFSVK und Fachschaftenreferatsmitgliedern vorbehalten. Außerdem können alle weiteren AStA-Mitglieder und Fachschaftsratsmitglieder bei persönlicher oder sachlicher Betroffenheit, sowie Antragstellende des aktuellen TOP eine persönliche Erklärung abgeben.
 
 === § 27 Erklärung zur Aussprache
 Zu einer Erklärung zur Aussprache wird das Wort nach Schluss oder Unterbrechung der Aussprache erteilt. Vorrangig kann die Sitzungsleitung das Wort zur direkten Erwiderung erteilen. Mit einer Erklärung zur Aussprache dürfen nur Äußerungen, die sich in der Aussprache auf die eigene Person oder tatsächliche Vorgänge bezogen haben, zurückgewiesen oder eigene Ausführungen richtiggestellt werden. Abweichend von <<_26_persönliche_erklärungen, § 26>> Absatz 3 können Erklärungen zur Aussprache alle Personen mit Rederecht abgeben.
 
 === § 28 Erklärung zur Abstimmung
-(1) Nach Schluss der Aussprache kann jedes MdSP zur abschließenden Abstimmung eine Erklärung abgeben. Die Sitzungsleitung erteilt das Wort zu einer Erklärung in der Regel vor der Abstimmung. Die Erklärung zur Abstimmung darf nur die Verhandlung und den Verhandlungsgegenstand betreffende Aussagen enthalten.
+(1) Nach Schluss der Aussprache kann jedes MdFSVK zur abschließenden Abstimmung eine Erklärung abgeben. Die Sitzungsleitung erteilt das Wort zu einer Erklärung in der Regel vor der Abstimmung. Die Erklärung zur Abstimmung darf nur die Verhandlung und den Verhandlungsgegenstand betreffende Aussagen enthalten.
 
-(2) Jedes stimmberechtigte MdSP kann vor der Abstimmung erklären, dass es nicht an der Abstimmung teilnehme.
+(2) Jedes stimmberechtigte MdFSVK kann vor der Abstimmung erklären, dass es nicht an der Abstimmung teilnehme.
+
+NOTE: Ist das nicht einfach ne Enthaltung?
 
 === § 29 Erklärung außerhalb der Tagesordnung
 Zu einer tatsächlichen oder persönlichen Erklärung außerhalb der Tagesordnung kann die Sitzungsleitung das Wort vor Eintritt in die Tagesordnung, nach Schluss, oder Unterbrechung einer Aussprache erteilen.
 
 === § 30 Anwesenheitspflicht
-Jedes MdSP muss zu den Sitzungen erscheinen. Jedes Mitglied ist verpflichtet, sich im Verhinderungsfalle spätestens bis zu Beginn der Sitzung beim Präsidium zu entschuldigen. Mündliche Entschuldigungen durch Dritte sind grundsätzlich nicht statthaft.
+Jedes MdFSVK muss zu den Sitzungen erscheinen. Jedes Mitglied ist verpflichtet, sich im Verhinderungsfalle spätestens bis zu Beginn der Sitzung beim Fachschaftenreferat zu entschuldigen. Mündliche Entschuldigungen durch Dritte sind grundsätzlich nicht statthaft.
 
 === § 31 Beschlussfähigkeit
-(1) Das SP ist beschlussfähig, wenn die Sitzung ordnungsgemäß einberufen wurde und mehr stimmberechtigte Mitglieder anwesend sind als die Anzahl der Hälfte an ordentlichen MdSP beträgt und diese ihren Studierendenstatus zu Beginn jedes Semester, spätestens auf der ersten Sitzung bei der sie stimmberechtigt sind, der Sitzungsleitung gegenüber nachgewiesen haben.
+(1) Die FSVK ist beschlussfähig, wenn die Sitzung ordnungsgemäß einberufen wurde und ein Drittel der MdVSK vertreten war.
 
-(2) Zu Beginn jeder Sitzung ist die Beschlussfähigkeit des SP festzustellen. Auf Antrag eines MdSP ist die Beschlussfähigkeit im Laufe der Sitzung zu überprüfen.
+CAUTION: Einschränkung durch xref:satzung::index.adoc#_73_beschlüsse_der_fsvk[Satzung §73 (2)]
 
-(3) Wird die Beschlussunfähigkeit festgestellt, muss innerhalb einer Woche, jedoch frühestens 24 Stunden nach dem Beginn der als beschlussunfähig festgestellten Sitzung, eine weitere Sitzung des SP stattfinden. Bei dieser ist die Beschlussfähigkeit unabhängig von der Anzahl der anwesenden Mitglieder gegeben. Darauf muss in der Einladung hingewiesen werden. In diesem Fall gilt nicht die übliche Einladungsfrist nach <<_3_einberufung, § 3 Absatz 3>>.
+(2) Zu Beginn jeder Sitzung ist die Beschlussfähigkeit des FSCK festzustellen. Auf Antrag eines MdFSVK ist die Beschlussfähigkeit im Laufe der Sitzung zu überprüfen.
 
-(4) In eine Einladung kann ein Ersatztermin aufgenommen werden für den Fall, dass das SP auf der einberufenen Sitzung beschlussunfähig ist. Diese Einladung gilt dann auch für den Ersatztermin. Absatz 3 Sätze 2 bis 3 gelten entsprechend. Wird eine Sitzung an einem Ersatztermin abgehalten, müssen zuvor alle MdSP unverzüglich benachrichtigt werden, wenn sie auf der Sitzung nicht anwesend waren.
+(3) Wird die Beschlussunfähigkeit festgestellt, muss innerhalb einer Woche, jedoch frühestens 24 Stunden nach dem Beginn der als beschlussunfähig festgestellten Sitzung, eine weitere FSVK stattfinden. Bei dieser ist die Beschlussfähigkeit unabhängig von der Anzahl der anwesenden Mitglieder gegeben. Darauf muss in der Einladung hingewiesen werden. In diesem Fall gilt nicht die übliche Einladungsfrist nach <<_3_einberufung, § 3 Absatz 3>>.
 
-(5) Wird das SP im Sitzungsverlauf beschlussunfähig, so gilt die auf dieser Sitzung beschlossene Tagesordnung auch auf der erneut einberufenen Sitzung.
+CAUTION: Einschränkung durch xref:satzung::index.adoc#_73_beschlüsse_der_fsvk[Satzung §73 (3)]
+
+(4) In eine Einladung kann ein Ersatztermin aufgenommen werden für den Fall, dass die FSVK auf der einberufenen Sitzung beschlussunfähig ist. Diese Einladung gilt dann auch für den Ersatztermin. Absatz 3 Sätze 2 bis 3 gelten entsprechend. Wird eine Sitzung an einem Ersatztermin abgehalten, müssen zuvor alle MdFSVK und Fachschaften nach nach xref:satzung::index.adoc#_44_fachschaften[Satzung §44 (3)] unverzüglich benachrichtigt werden, wenn sie auf der Sitzung nicht anwesend waren.
+
+(5) Wird die FSVK im Sitzungsverlauf beschlussunfähig, so gilt die auf dieser Sitzung beschlossene Tagesordnung auch auf der erneut einberufenen Sitzung.
 
 === § 32 Genehmigung und Änderung der Tagesordnung
-(1) Zu Beginn jeder Sitzung ist über die in der Einladung vorgeschlagene Tagesordnung abzustimmen. Dazu können durch MdSP Anträge auf Änderung der vorgeschlagenen Tagesordnung gestellt werden. Mit Genehmigung der Tagesordnung ist diese verbindlich.
+(1) Zu Beginn jeder Sitzung ist über die in der Einladung vorgeschlagene Tagesordnung abzustimmen. Dazu können durch MdFSVK Anträge auf Änderung der vorgeschlagenen Tagesordnung gestellt werden. Mit Genehmigung der Tagesordnung ist diese verbindlich.
 
 (2) Nach der Genehmigung der Tagesordnung kann eine nachträgliche Änderung nur mit der Mehrheit der Abstimmenden beschlossen werden. Außerdem kann die Sitzungsleitung Zusatzpunkte auf die Tagesordnung setzen, wenn diese nach der Geschäftsordnung zwingend bis zum Ende der Sitzung behandelt werden müssen. Eine Änderung ist nicht mehr zulässig, sobald der Punkt „Verschiedenes“ aufgerufen worden ist.
 
 === § 33 Gestaltung der Tagesordnung
-(1) Tagesordnungspunkte, die unter Ausschluss der Öffentlichkeit behandelt werden, sollen an das Ende der Sitzung gelegt werden, sofern keine Personen außer AStA-Mitglieder oder MdSP zu diesem TOP berichten.
+(1) Tagesordnungspunkte, die unter Ausschluss der Öffentlichkeit behandelt werden, sollen an das Ende der Sitzung gelegt werden, sofern keine Personen außer Fachschaftenreferats-Mitglieder AStA-Mitglieder oder MdFSVK zu diesem TOP berichten.
 
-(2) Die Wahl und Abwahl von Mitgliedern des Präsidiums findet unmittelbar nach den Regularia statt.
+(2) Die Wahl und Abwahl von Mitgliedern des Fachschaftenreferats findet unmittelbar nach den Regularia statt.
 
-(3) Anfragen und Anträge von Mitgliedern der Studierendenschaft, die alle nicht Mitglied des SP oder des AStA sind, müssen am Anfang der Tagesordnung nach den Regularia behandelt werden.
+(3) Anfragen und Anträge von Mitgliedern der Studierendenschaft, die alle nicht Mitglied der FSVK, des AStA oder des Studierendenparlamentes sind, müssen am Anfang der Tagesordnung nach den Regularia behandelt werden.
 
-(4) Anfragen aus den Reihen des SP und des AStA sind unmittelbar vor dem Tagesordnungspunkt „Berichte“ zu behandeln.
+(4) Anfragen aus den Reihen des MdFSVK, des AStA und des Fachschaftenreferates sind unmittelbar vor dem Tagesordnungspunkt „Berichte“ zu behandeln.
 
 (5) Konkurrierende Anträge sind gemeinsam in einem TOP zu behandeln. Auch andere Verhandlungsgegenstände mit einem Sachzusammenhang können gemeinsam in einem TOP behandelt werden.
 
 (6) Der Punkt „Verschiedenes“ ist an das Ende der Tagesordnung zu setzen. Unter dem Punkt „Verschiedenes“ dürfen keine Beschlüsse gefasst werden. Abweichend hiervon kann die Öffentlichkeit ausgeschlossen werden.
 
-=== § 34 Verlangen der Anwesenheit von AStA-Mitgliedern
-(1) Auf Antrag von zwei Fraktionen oder einem Viertel der satzungsgemäßen Mitglieder des SP hat das Präsidium die Anwesenheit von Mitgliedern des AStA auf einer Sitzung zu verlangen.
-
-(2) Der Antrag ist in Textform bis zum Beginn des achten Tages vor der Sitzung zu stellen und substanziiert zu begründen. Das Verlangen der Anwesenheit ist gegenüber dem Stellen einer Anfrage subsidiär.
-
-(3) Nach der Antragstellung hat das Präsidium unverzüglich die Anwesenheit zu verlangen und alle MdSP, sowie die Mitglieder des AStA, deren Anwesenheit verlangt wird, über den Antrag in Kenntnis zu setzen.
-
 === § 35 Unterbrechung der Sitzung
-Auf Verlangen eines MdSP ist die Sitzung für einen bestimmten Zeitraum von höchstens 15 Minuten zu unterbrechen. Eine Unterbrechung kann von einem MdSP nur einmal je TOP verlangt werden. Die Mitglieder einer Fraktion können zusammen je TOP höchstens 45 Minuten Unterbrechung beantragen.
+Auf Verlangen eines MdFSVK ist die Sitzung für einen bestimmten Zeitraum von höchstens 15 Minuten zu unterbrechen. Eine Unterbrechung kann von einem MdFSVK nur einmal je TOP verlangt werden.
 
 === § 36 Zeitliche Begrenzung von Sitzungen
 Nach 22:30 Uhr darf kein TOP außer „Verschiedenes“ aufgerufen werden, es sei denn, mindestens zwei Drittel der Abstimmenden sprechen sich auf Antrag für eine Fortführung der Sitzung bis zur einer bestimmen Uhrzeit aus.
 
 === § 37 Vertagung der Sitzung
-Auf Antrag kann das SP beschließen die Sitzung zu vertagen. Wird eine Sitzung vertagt, muss sie innerhalb einer Woche weitergeführt werden, jedoch frühestens um 18 Uhr des zweiten Werktages nach Beginn der Sitzung. Hierzu ist gesondert einzuladen.
+Auf Antrag kann die FSVK beschließen die Sitzung zu vertagen. Wird eine Sitzung vertagt, muss sie innerhalb einer Woche weitergeführt werden, jedoch frühestens um 18 Uhr des zweiten Werktages nach Beginn der Sitzung. Hierzu ist gesondert einzuladen.
 
 == V. Abschnitt Abstimmungen und Wahlen
 === § 38 Stimmberechtigung
-Stimmberechtigt sind die anwesenden ordentlichen MdSP. Ein ordentlich gewähltes Mitglied kann in der Reihenfolge der Liste durch ein stellvertretendes Mitglied vertreten werden.
+Stimmberechtigt sind die anwesenden ordentlichen MdFSVK. Ein ordentlich gewähltes Mitglied kann in der Reihenfolge der Liste durch ein stellvertretendes Mitglied vertreten werden.
 
 === § 39 Abstimmungen
 (1) Soweit für einen Beschluss nicht lediglich eine einfache Mehrheit erforderlich ist, hat die Sitzungsleitung vor der Abstimmung darauf hinzuweisen.
 
-(2) Abstimmungen erfolgen durch Hand- oder Kartenzeichen der Stimmberechtigten. Die Auszählung der Stimmen erfolgt durch die Sitzungsleitung. Die Sitzungsleitung trägt Sorge dafür, dass das Ergebnis einer Abstimmung von den MdSP, sowie der Öffentlichkeit in geeigneter Weise wahrgenommen werden kann. Hierbei sind insbesondere Handicaps, die
-wahrnehmungseinschränkend wirken, zu berücksichtigen.
+(2) Abstimmungen erfolgen durch Hand- oder Kartenzeichen der Stimmberechtigten. Die Auszählung der Stimmen erfolgt durch die Sitzungsleitung. Die Sitzungsleitung trägt Sorge dafür, dass das Ergebnis einer Abstimmung von den MdFSVK, sowie der Öffentlichkeit in geeigneter Weise wahrgenommen werden kann. Hierbei sind insbesondere Handicaps, die wahrnehmungseinschränkend wirken, zu berücksichtigen.
 
 (3) Ungültige Stimmen und Stimmenthaltungen zählen bei der Ermittlung der Mehrheit nicht mit.
 
 (4) Für die Annahme eines Antrages oder die Zustimmung einer Frage genügt die einfache Mehrheit der abgegebenen Stimmen, wenn die Satzung, eine Ordnung, eine andere Rechtsvorschrift oder diese Geschäftsordnung keine anderen Regelungen vorsieht. Bei Gleichheit der Stimmen gilt ein Antrag als abgelehnt.
 
 === § 40 En-Bloc-Abstimmung
-Auf Antrag kann das SP beschließen, mehrere Abstimmungen in einer Abstimmung zusammen zu fassen, es sei denn, ein stimmberechtigtes MdSP widerspricht.
+Auf Antrag kann die FSVK beschließen, mehrere Abstimmungen in einer Abstimmung zusammen zu fassen, es sei denn, ein stimmberechtigtes MdFSVK widerspricht.
 
 === § 41 Namentliche Abstimmungen
-Auf Antrag eines Mitgliedes der Studierendenschaft ist namentlich abzustimmen, es sei denn ein stimmberechtigtes MdSP widerspricht. Über GO-Anträge ist eine namentliche Abstimmung nicht zulässig.
+Auf Antrag eines Mitgliedes der Studierendenschaft ist namentlich abzustimmen, es sei denn ein stimmberechtigtes MdFSVK widerspricht. Über GO-Anträge ist eine namentliche Abstimmung nicht zulässig.
 
 === § 42 Geheime Abstimmung
-Auf Verlangen eines MdSP ist geheim abzustimmen. <<_45_wahlen_und_abwahlen, § 45 Absätze 2 bis 4>> finden entsprechend Anwendung. Über GO-Anträge ist eine geheime Abstimmung nicht zulässig.
+Auf Verlangen eines MdFSVK ist geheim abzustimmen. <<_45_wahlen_und_abwahlen, § 45 Absätze 2 bis 4>> finden entsprechend Anwendung. Über GO-Anträge ist eine geheime Abstimmung nicht zulässig.
 
 === § 43 Sondervotum
-Jedes MdSP kann eine vom Mehrheitsbeschluss abweichende Meinung in einem Sondervotum artikulieren. Das Sondervotum muss in der Sitzung vorgetragen und begründet werden. Sondervoten müssen dem Präsidium binnen 24 Stunden nach Sitzungsende in Textform zugeleitet werden, um ins Protokoll aufgenommen zu werden. Soweit Beschlüsse anderen Stellen zugeleitet oder der Öffentlichkeit zugänglich gemacht werden, sind auch die zu Protokoll genommenen Sondervoten weiterzuleiten oder zu veröffentlichen.
+Jedes MdFSVK kann eine vom Mehrheitsbeschluss abweichende Meinung in einem Sondervotum artikulieren. Das Sondervotum muss in der Sitzung vorgetragen und begründet werden. Sondervoten müssen dem Fachschaftenreferat binnen 24 Stunden nach Sitzungsende in Textform zugeleitet werden, um ins Protokoll aufgenommen zu werden. Soweit Beschlüsse anderen Stellen zugeleitet oder der Öffentlichkeit zugänglich gemacht werden, sind auch die zu Protokoll genommenen Sondervoten weiterzuleiten oder zu veröffentlichen.
 
 === § 44 Objektive Unklarheit
-Auf begründetem Verlangen eines stimmberechtigten MdSP ist über die objektive Unklarheit über den Inhalt des Antrages oder der Frage einer Abstimmung zu entscheiden. Über das Verlangen entscheidet die Sitzungsleitung. Erklärt die Sitzungsleitung das Verlangen für begründet, ist – nach Aufklärung der Unklarheit – die Abstimmung zu wiederholen.
+Auf begründetem Verlangen eines stimmberechtigten MdFSVK ist über die objektive Unklarheit über den Inhalt des Antrages oder der Frage einer Abstimmung zu entscheiden. Über das Verlangen entscheidet die Sitzungsleitung. Erklärt die Sitzungsleitung das Verlangen für begründet, ist – nach Aufklärung der Unklarheit – die Abstimmung zu wiederholen.
 
 === § 45 Wahlen und Abwahlen
-(1) Wahlen und Abwahlen erfolgen geheim gemäß xref:satzung::index.adoc#_18_wahlen_im_sp[§ 18 Abs. 1 der Satzung] und den Regelungen dieser Geschäftsordnung.
+(1) Wahlen und Abwahlen erfolgen geheim gemäß xref:satzung::index.adoc#_18_wahlen_im_sp[§ 18 Abs. 1 der Satzung] und den Regelungen dieser Geschäftsordnung. Anstelle der Mitglieder des SP treten hier die MdFSVK
 
-(2) Für jeden Wahlgang sind von der Sitzungsleitung gestempelte Stimmzettel an die stimmberechtigten MdSP auszugeben. Die MdSP füllen die Stimmzettel verdeckt aus. Falls notwendig, kann eine Hilfsperson zur Stimmabgabe in Anspruch genommen werden. Die Stimmzettel sind bei der Sitzungsleitung zu sammeln.
+(2) Für jeden Wahlgang sind von der Sitzungsleitung Stimmzettel an die stimmberechtigten MdFSVK auszugeben. Die MdFSVK füllen die Stimmzettel verdeckt aus. Falls notwendig, kann eine Hilfsperson zur Stimmabgabe in Anspruch genommen werden. Die Stimmzettel sind bei der Sitzungsleitung zu sammeln.
 
-(3) Die Stimmzettel werden von der Sitzungsleitung und der Protokollführung ausgezählt und das Ergebnis von der Sitzungsleitung bekannt gegeben. Leere Stimmzettel gelten als Enthaltung. Für die Auszählung darf jede Fraktion ein Mitglied benennen, das bei der Auszählung die Richtigkeit kontrolliert.
+(3) Die Stimmzettel werden von der Sitzungsleitung und der Protokollführung ausgezählt und das Ergebnis von der Sitzungsleitung bekannt gegeben. Leere Stimmzettel gelten als Enthaltung.
 
 (4) Ungültig sind die Stimmzettel, die als nicht für die Wahl oder Abwahl bestimmt erkennbar sind. Ungültig sind die Stimmen
 
@@ -275,27 +297,27 @@ a. die den Willen der wählenden Person nicht zweifelsfrei erkennen lassen oder
 b. die einen Zusatz oder Vorbehalt enthalten.
 
 === § 46 Einspruch gegen eine Abstimmung oder eine Wahl
-Auf begründetem Verlangen eines stimmberechtigten MdSP ist über die Nicht-Ordnungsmäßigkeit einer Beschlussfassung, Abstimmung oder einer Wahl zu entscheiden. Über das Verlangen entscheidet die Sitzungsleitung. Erklärt die Sitzungsleitung das Verlangen für begründet, ist die Beschlussfassung, Abstimmung oder Wahl zu wiederholen.
+Auf begründetem Verlangen eines stimmberechtigten MdFSVK ist über die Nicht-Ordnungsmäßigkeit einer Beschlussfassung, Abstimmung oder einer Wahl zu entscheiden. Über das Verlangen entscheidet die Sitzungsleitung. Erklärt die Sitzungsleitung das Verlangen für begründet, ist die Beschlussfassung, Abstimmung oder Wahl zu wiederholen.
 
 == VI. Abschnitt Ordnungsmaßnahmen
 === § 47 Sach- und Ordnungsruf
 (1) Die Sitzungsleitung kann Redende, die vom Verhandlungsgegenstand abschweifen, zur Sache verweisen.
 
-(2) Anwesende können von der Sitzungsleitung zur Ordnung gerufen werden, wenn sie die Ordnung oder Würde des Parlamentes verletzen. Die Unterbrechung einer persönlichen Erklärung und übermäßiger Alkoholkonsum ist mit einem Ordnungsruf zu ahnden.
+(2) Anwesende können von der Sitzungsleitung zur Ordnung gerufen werden, wenn sie die Ordnung oder Würde der FSVK verletzen. Die Unterbrechung einer persönlichen Erklärung und übermäßiger Alkoholkonsum ist mit einem Ordnungsruf zu ahnden.
 
 (3) Sämtliche Anwesende haben während der Sitzungen dafür Sorge zu tragen, dass ihre Geräte auf lautlos geschaltet sind. Verstöße gegen diese Regelung haben einen Ordnungsruf zur Folge.
 
-(4) Gegen einen Sach- oder Ordnungsruf kann durch ein Viertel der anwesenden stimmberechtigten MdSP begründet Einspruch bei der Sitzungsleitung eingelegt werden. Über den Einspruch entscheidet das SP ohne Aussprache in der gleichen Sitzung mit der Mehrheit der satzungsgemäßen Mitglieder.
+(4) Gegen einen Sach- oder Ordnungsruf kann durch ein Viertel der anwesenden stimmberechtigten MdFSVK begründet Einspruch bei der Sitzungsleitung eingelegt werden. Über den Einspruch entscheidet das FSVK ohne Aussprache in der gleichen Sitzung mit der Mehrheit der satzungsgemäßen Mitglieder.
 
 === § 48 Wortentzug
 (1) Ist eine Person während der Sitzung dreimal zur Sache oder dreimal zur Ordnung gerufen und beim zweiten Male auf die Folgen eines dritten Rufes zur Sache bzw. zur Ordnung hingewiesen worden, so muss ihr die Sitzungsleitung das Wort entziehen und darf es ihr in dem laufenden TOP nicht wieder erteilen.
 
-(2) Personen, die nicht dem SP oder AStA angehören, kann das Wort für die laufende Sitzung entzogen werden. Bei Widerspruch eines MdSP entscheidet das SP sofort mit einfacher Mehrheit über den Widerspruch.
+(2) Personen, die nicht der FSVK oder den Fachschaftenreferat angehören, kann das Wort für die laufende Sitzung entzogen werden. Bei Widerspruch eines MdFSVK entscheidet das FSVK sofort mit einfacher Mehrheit über den Widerspruch.
 
 === § 49 Verweisung von der Sitzung
-(1) Schweift eine Person weiter von der Sache ab oder verletzt weiter die Ordnung oder Würde, nachdem ihr das Wort bereits einmal entzogen worden war, so kann die Sitzungsleitung diese mit Zustimmung des SP des Saales verweisen. Auf einen mit zwei Drittel Mehrheit der Abstimmenden angenommenen Antrag eines MdSP hin muss sie dies tun.
+(1) Schweift eine Person weiter von der Sache ab oder verletzt weiter die Ordnung oder Würde, nachdem ihr das Wort bereits einmal entzogen worden war, so kann die Sitzungsleitung diese mit Zustimmung der MdFSVK des Saales verweisen. Auf einen mit zwei Drittel Mehrheit der Abstimmenden angenommenen Antrag eines MdFSVK hin muss sie dies tun.
 
-(2) Bei gröblicher Verletzung der Ordnung oder der Würde des SP kann die Sitzungsleitung Personen, die nicht dem Parlament angehören, auch ohne, dass ein Ordnungsruf ergangen ist, mit Zustimmung des Parlamentes, des Raumes verweisen. Ist eine Abstimmung unter Anwesenheit der betroffenen Person nicht möglich, so ist diese für die Dauer der Abstimmung des Sitzungsraumes zu verweisen.
+(2) Bei gröblicher Verletzung der Ordnung oder der Würde der FSVK kann die Sitzungsleitung Personen, die nicht der FSVK angehören, auch ohne, dass ein Ordnungsruf ergangen ist, mit Zustimmung der FSVK, des Raumes verweisen. Ist eine Abstimmung unter Anwesenheit der betroffenen Person nicht möglich, so ist diese für die Dauer der Abstimmung des Sitzungsraumes zu verweisen.
 
 === § 50 Unterbrechung oder Vertagung bei Unruhe
 (1) Wenn während der Sitzung störende Unruhe entsteht, die den Fortgang der Verhandlungen in Frage stellt, kann die Sitzungsleitung die Sitzung auf bestimmte Zeit unterbrechen. Kann sich die Sitzungsleitung kein Gehör verschaffen, so verlässt sie den Platz; die Sitzung wird dadurch unterbrochen.
@@ -306,7 +328,7 @@ Auf begründetem Verlangen eines stimmberechtigten MdSP ist über die Nicht-Ordn
 === § 51 Anträge zur Geschäftsordnung im Einzelnen
 Anträge zur Geschäftsordnung (GO-Anträge) sind:
 
-1. Antrag auf Zulassung von Einzelnen zum nicht-öffentlichen Teil der Sitzung nach § 21 Absatz 6,
+1. Antrag auf Zulassung von Einzelnen zum nicht-öffentlichen Teil der Sitzung nach <<_21_öffentlichkeit, § 21 Absatz 6>>,
 2. Antrag auf Einräumung des Rederechts für Personen, die nicht Mitglied der Studierendenschaft sind,
 3. Antrag auf Schluss der Aussprache nach <<_23_aussprache_über_verhandlungsgegenstände, § 23 Absatz 4>> (bei Abstimmung zwei Drittel Mehrheit notwendig),
 4. Antrag auf Wiedereintritt in die Aussprache nach <<_23_aussprache_über_verhandlungsgegenstände, § 23 Absatz 5>> (bei Abstimmung zwei Drittel Mehrheit notwendig),
@@ -331,17 +353,17 @@ Anträge zur Geschäftsordnung (GO-Anträge) sind:
 === § 52 Behandlung von Anträgen zur Geschäftsordnung
 (1) Ein GO-Antrag muss sich auf den zur Beratung stehenden Verhandlungsgegenstand oder auf die Tagesordnung beziehen.
 
-(2) Sofern an anderer Stelle dieser Geschäftsordnung nicht etwas anderes bestimmt ist, sind GOAnträge MdSP vorbehalten.
+(2) Sofern an anderer Stelle dieser Geschäftsordnung nicht etwas anderes bestimmt ist, sind GO-Anträge MdFSVK vorbehalten.
 
 (3) Liegt eine Meldung für einen GO-Antrag vor, so erhält die antragstellende Person umgehend, spätestens nach der aktuellen Wortmeldung, das Wort. Um eine Meldung für einen GO-Antrag deutlich zu machen, hebt die Person gleichzeitig beide Hände. GO-Anträge müssen positiv, also ohne Verneinung gestellt werden.
 
-(4) Auf einen GO-Antrag kann eine Gegenrede eines MdSP folgen. Diese kann auch formal erfolgen. Auf die Gegenrede ist keine weitere Wortmeldung zulässig. Erfolgt eine Gegenrede, wird unverzüglich über den GO-Antrag abgestimmt, falls die antragstellende Person diesen nicht zuvor zurückzieht oder nach dieser Geschäftsordnung der Antrag bei Widerspruch abgelehnt ist. Erfolgt keine Gegenrede, ist der GO-Antrag angenommen.
+(4) Auf einen GO-Antrag kann eine Gegenrede eines MdFSVK folgen. Diese kann auch formal erfolgen. Auf die Gegenrede ist keine weitere Wortmeldung zulässig. Erfolgt eine Gegenrede, wird unverzüglich über den GO-Antrag abgestimmt, falls die antragstellende Person diesen nicht zuvor zurückzieht oder nach dieser Geschäftsordnung der Antrag bei Widerspruch abgelehnt ist. Erfolgt keine Gegenrede, ist der GO-Antrag angenommen.
 
 (5) Über GO-Anträge, denen entsprochen werden muss (Verlangen), wird nicht abgestimmt. Gegenrede ist nicht zulässig.
 
 (6) Wird vor einer Abstimmung ein weiterer GO-Antrag gestellt, muss dieser weiterführend sein, um sofort berücksichtigt zu werden. In diesem Fall wird über den weiterführenden GO-Antrag abgestimmt.
 
-(7) Zur Geschäftsordnung dürfen Einzelne nicht länger als fünf Minuten sprechen.
+(7) Bei GO-Anträgen dürfen Einzelne nicht länger als fünf Minuten sprechen.
 
 (8) Werden innerhalb eines TOP GO-Anträge nach Ablehnung durch Gegenrede oder Abstimmung erneut gestellt, liegt es im Ermessen der Sitzungsleitung, diese zu zulassen, wenn sich der Stand der Aussprache nicht maßgeblich geändert hat.
 
@@ -350,70 +372,63 @@ Anträge zur Geschäftsordnung (GO-Anträge) sind:
 Verhandlungsgegenstände, die auf die Tagesordnung gesetzt werden können, sind:
 
 1. Anträge
-a. zur Beschlussfassung nach xref:satzung::index.adoc#_82_finanzbeschlüsse[§ 82 der Satzung] (Finanzanträge),
-b. auf Aufhebung eines Beschlusses,
-c. auf Einsetzung eines Ausschusses oder Arbeitskreis nach <<_12_einsetzung_von_ausschüssen_und_arbeitskreisen, § 12>>,
-d. sonstige Anträge zur Beschlussfassung;
+a. auf Aufhebung eines Beschlusses,
+b. auf Einsetzung eines Ausschusses oder Arbeitskreis nach <<_12_einsetzung_von_ausschüssen_und_arbeitskreisen, § 12>>,
+c. sonstige Anträge zur Beschlussfassung;
 2. Anträge auf Überweisung eines Antrages in einen Ausschuss oder Arbeitskreis,
 3. Beschlussempfehlungen der Ausschüsse und Arbeitskreise,
 4. Wahlen
-a. der Mitglieder des AStA-Vorstandes,
-b. des Rechtsausschusses,
-c. der studentischen Mitglieder in den Verwaltungsrat des Studierendenwerkes,
-d. in sonstige Ämter;
+a. der Mitglieder des Fschschaftenreferates,
+b. in sonstige Ämter;
 5. Anträge auf Abwahl von Personen,
-6. Entwürfe von Haushaltsplänen und von Nachträgen zum Haushaltsplan,
-7. Anfragen,
-8. Berichte
-a. des AStA-Vorstandes,
-b. des SP-Präsidiums,
-c. aus Ausschüssen, Arbeitskreisen, Referaten und sonstigen Gremien;
-9. Einsprüche gegen Ordnungs- oder Sachrufe nach <<_47_sach_und_ordnungsruf, § 47 Absatz 4>>,
-10. der Tagesordnungsvorschlag der Einladung,
-11. die zu genehmigenden Protokolle,
-12. Anträge auf Nicht-Öffentlichkeit nach <<_22_ausschluss_der_öffentlichkeit, § 22 Absatz 4>>,
-13. Anträge auf Einsetzung eines Untersuchungsausschuss nach <<_17_einsetzung_von_untersuchungsausschüssen, § 17>>,
-14. Vorschläge zur Bestätigung von Personen auf Stellen oder Aufwandsentschädigungen und
-15. Beanstandungen des AStA-Vorsitz nach <<_26_persönliche_erklärungen, § 26 Absatz 3>> der Satzung gegen das SP oder seiner Ausschüsse und Arbeitskreise.
+6. Anfragen,
+7. Berichte
+a. des FAchschaftenreferates
+b. des AStA-Vorstandes,
+c. des SP-Präsidiums,
+d. aus Ausschüssen, Arbeitskreisen, Referaten und sonstigen Gremien;
+8. Einsprüche gegen Ordnungs- oder Sachrufe nach <<_47_sach_und_ordnungsruf, § 47 Absatz 4>>,
+9. der Tagesordnungsvorschlag der Einladung,
+10. die zu genehmigenden Protokolle,
+11. Anträge auf Nicht-Öffentlichkeit nach <<_22_ausschluss_der_öffentlichkeit, § 22 Absatz 4>>,
+12. Beanstandungen des AStA-Vorsitz oder Fachschaftenreferates nach <<_26_persönliche_erklärungen, § 26 Absatz 3>> der Satzung gegen das SP oder seiner Ausschüsse und Arbeitskreise.
+
+CAUTION: Gibt es eigentlich irgendeinen Grund warum wir die Themen festlegen sollten?
 
 === § 54 Pflicht zur Ankündigung von Verhandlungsgegenständen
-Folgende Verhandlungsgegenstände können nur in die Tagesordnung des SP aufgenommen werden, wenn sie bereits in der mit der Einladung vorgeschlagenen Tagesordnung enthalten und verschickt worden sind:
+Folgende Verhandlungsgegenstände können nur in die Tagesordnung der FSVK aufgenommen werden, wenn sie bereits in der mit der Einladung vorgeschlagenen Tagesordnung enthalten und verschickt worden sind:
 
-1. Anträge auf Verabschiedung, Neufassung oder Änderung von Satzung, Ordnungen oder dieser Geschäftsordnung,
-2. Entwürfe des Haushalts oder von Nachträgen zum Haushalt,
-3. Anträge auf Neuwahl des SP,
-4. Wahl von Mitgliedern des Präsidiums,
-5. Wahl von Mitgliedern des AStA-Vorstandes,
-6. Anträge auf Abwahl einzelner Mitglieder des Präsidiums, des AStA-Vorstandes oder des Rechtsausschusses,
-7. Finanzanträge (es sei denn, eine Mehrheit von zwei Drittel der Abstimmenden stimmt der Aufnahme eines Finanzantrages in die Tagesordnung zu),
-8. Anträge auf Zustimmung des SP für einen Beschluss des AStA-Vorstandes die Amtszeit eines Referatsmitgliedes oder einer Projektstelle vorzeitig zu beenden und
-9. Anträge auf Aufhebung eines Beschlusses.
+1. Anträge auf Verabschiedung, Neufassung oder Änderung dieser Geschäftsordnung,
+2. Wahl von Mitgliedern des Fachschaftenreferates,
+3. Anträge auf Abwahl einzelner Mitglieder des Fachschaftenreferates,
+4. Anträge auf Aufhebung eines Beschlusses.
 
 === § 54a Pflicht zur Einreichung der Berichte des AStA-Vorstands
-Der AStA-Vorstand und das Präsidium stellen im Voraus der Sitzung einen aktuellen Bericht in Textform zur Verfügung, welcher auf der Sitzung um kürzliche Entwicklungen ergänzt werden kann. Dieser wird dem Präsidium zur Antragsfrist zugeschickt und ggf. der Einladung beigefügt oder spätestens 24 Stunden vor Sitzungsbeginn durch den Vorstand selbst über die Mailverteiler sp-offen und sp-intern verschickt. Werden die Berichte nicht form- oder fristgerecht eingereicht, wird dies im Protokoll vermerkt.
+Der AStA-Vorstand und das Fachschaftenreferat stellen im Voraus der Sitzung einen aktuellen Bericht in Textform zur Verfügung, welcher auf der Sitzung um kürzliche Entwicklungen ergänzt werden kann. Dieser wird dem Präsidium zur Antragsfrist zugeschickt und ggf. der Einladung beigefügt oder spätestens 24 Stunden vor Sitzungsbeginn durch den Vorstand selbst über die Mailverteiler fs-offen verschickt. Werden die Berichte nicht form- oder fristgerecht eingereicht, wird dies im Protokoll vermerkt.
 
 === § 55 Einreichung von Anträgen
-(1) Anträge im Sinne von <<_53_verhandlungsgegenstände, § 53 Nr. 1>> sollen in Textform bis zum Beginn des achten Tages vor der Sitzung (Antragsfrist) bei SP-Anträgen beim Präsidium oder bei Anträgen an Ausschüsse oder Arbeitskreise beim Vorsitz eingereicht und begründet werden.
+(1) Anträge im Sinne von <<_53_verhandlungsgegenstände, § 53 Nr. 1>> sollen in Textform bis zum Beginn des achten Tages vor der Sitzung (Antragsfrist) bei FSVK-Anträgen beim Fachschaftenreferat oder bei Anträgen an Ausschüsse oder Arbeitskreise beim Vorsitz eingereicht und begründet werden.
 
-(2) Für die Anträge soll die offizielle Antragsvorlage des SP verwendet werden. Ein Antrag muss jedoch mindestens einen Titel, die Antragstellenden sowie ein eindeutiges Begehren enthalten. Ergibt sich die Antragsberechtigung nach Absatz 4 Nr. 1 oder 8, so sind alle Antragstellende mit dem immatrikulierten Namen oder mit ihrer Matrikelnummer im Antrag zu nennen.
+(2) Für die Anträge soll die offizielle Antragsvorlage des FSVK verwendet werden. Ein Antrag muss jedoch mindestens einen Titel, die Antragstellenden sowie ein eindeutiges Begehren enthalten. Ergibt sich die Antragsberechtigung nach Absatz 4 Nr. 7, so sind alle Antragstellende mit dem immatrikulierten Namen im Antrag zu nennen.
 
 (3) Finanzanträge müssen einen Zweck für die Verwendung der Finanzmittel und eine Höchstgrenze der zu verwendenden Mittel nennen. Finanzanträge können auch ohne Einhaltung des vorhergehenden Satzes auf die Tagesordnung gesetzt werden, müssen aber vor der endgültigen Beschlussfassung entsprechend geändert werden.
 
 (4) Antragsberechtigt sind
 
-1. die MdSP,
-2. die Fraktionen des SP,
-3. die Ausschüsse und Arbeitskreise des SP,
-4. der AStA-Vorstand,
-5. die Fachschaftsräte,
-6. die Fachschaftsvertretendenkonferenz (FSVK),
-7. die autonomen Referate,
-8. jedes Mitglied der Studierendenschaft.
+1. die MdFSVK,
+2. die Ausschüsse und Arbeitskreise der FSVK,
+3. der AStA-Vorstand,
+4. die Fachschaftsräte,
+5. das Studierendenparlament (SP),
+6. die autonomen Referate,
+7. jedes Mitglied der Studierendenschaft.
 
-Der Studierendenstatus muss dem Präsidium oder der Sitzungsleitung nachgewiesen werden.
+Der Studierendenstatus muss dem Fachschaftenreferat nachgewiesen werden.
+
+NOTE: eher auf nachfrage nachgewiesen werden, niemand möchte das wirklich überprüfen, es sei denn der Antrag ist offrsichtliche zeitverschwendung
 
 === § 56 Änderungsanträge
-Antragsberechtigte können bis zum Beginn der Beschlussfassung eines Antrages Änderungsanträge in Textform beim Präsidium bzw. beim Vorsitz einreichen oder auf der Sitzung mündlich stellen. Bei mündlichen Änderungsanträgen kann die Protokollführung eine Abschrift in Textform verlangen.
+Antragsberechtigte können bis zum Beginn der Beschlussfassung eines Antrages Änderungsanträge in Textform beim Fachschaftenreferat bzw. beim Vorsitz einreichen oder auf der Sitzung mündlich stellen. Bei mündlichen Änderungsanträgen kann die Protokollführung eine Abschrift in Textform verlangen.
 
 === § 57 Behandlung von Anträgen
 (1) Anträge, die bis zur Antragsfrist eingereicht worden sind, sind unter Berücksichtigung von <<_33_gestaltung_der_tagesordnung, § 33>> in den Tagesordnungsvorschlag der nächsten Sitzung, die nach <<_2_sitzungstermine, § 2>> angekündigt worden ist, aufzunehmen.
@@ -434,14 +449,16 @@ Antragsberechtigte können bis zum Beginn der Beschlussfassung eines Antrages Ä
 === § 58 Aufhebung von Beschlüssen
 Zur Aufhebung von Beschlüssen bedarf es der Mehrheit der satzungsgemäßen Mitglieder; Beschlüsse, die mit einer zwei Drittel Mehrheit gefasst wurden, bedürfen zur Aufhebung einer zwei Drittel Mehrheit. Dies gilt auch für Anträge, die auf die Änderung eines Beschlusses gerichtet sind.
 
+CAUTION: Wenn ein Beschluss mit 1/2 der Anwesenden (welche 1/3 der Satzungsgemäßen sein mussen) Gefasst wird, macht es dann sinn eine Mehrheit der Satzungsgemäßen zu verlangen? Mein Vorschlag wäre 1/3 der Satzungsgemäßen.
+
 === § 59 Überweisung eines Antrages an Ausschüsse oder Arbeitskreise
-(1) Das SP kann einen Antrag, ohne über ihn in der Sache abzustimmen, zur weiteren Beratung an einen Ausschuss oder einen Arbeitskreis überweisen.
+(1) Die FSVK kann einen Antrag, ohne über ihn in der Sache abzustimmen, zur weiteren Beratung an einen Ausschuss oder einen Arbeitskreis überweisen.
 
 (2) Mit der Überweisung kann auch die Einsetzung eines neuen Arbeitskreises zur Beratung des Antrags beschlossen werden.
 
-(3) Ein Antrag auf Überweisung kann bis zum Beginn der Beschlussfassung über den Antrag von jedem MdSP gestellt werden. Über den Antrag auf Überweisung ist vor der Beschlussfassung in der Sache zu entscheiden. <<_56_änderungsanträge, § 56>> und <<_57_behandlung_von_anträgen, § 57 Absätze 2 bis 6>> gelten entsprechend. Zur Annahme des Antrages bedarf es der Mehrheit von zwei Drittel der Abstimmenden. Zuvor ist den Antragstellenden Gelegenheit zur Stellungnahme zu geben.
+(3) Ein Antrag auf Überweisung kann bis zum Beginn der Beschlussfassung über den Antrag von jedem MdFSVK gestellt werden. Über den Antrag auf Überweisung ist vor der Beschlussfassung in der Sache zu entscheiden. <<_56_änderungsanträge, § 56>> und <<_57_behandlung_von_anträgen, § 57 Absätze 2 bis 6>> gelten entsprechend. Zur Annahme des Antrages bedarf es der Mehrheit von zwei Drittel der Abstimmenden. Zuvor ist den Antragstellenden Gelegenheit zur Stellungnahme zu geben.
 
-(4) Der überwiesene Antrag ist vom Ausschuss oder Arbeitskreis innerhalb von sechs Wochen ab Überweisung zu beraten und eine Beschlussempfehlung für das Plenum des Parlamentes zu beschließen. Wird mit der Überweisung ein neuer Arbeitskreis eingesetzt, so beträgt die Frist acht Wochen. Mit Zustimmung der Antragstellenden kann der Ausschuss oder der Arbeitskreis eine Verlängerung der Beratungsfrist beschließen. Hat der Ausschuss oder der Arbeitskreis nach Ablauf der Beratungsfrist keine Beschlussempfehlung beschlossen, ist der Antrag erneut in den Tagesordnungsvorschlag der nächsten SP-Sitzung, die nach <<_2_sitzungstermine, § 2>> ankündigt worden ist, aufzunehmen.
+(4) Der überwiesene Antrag ist vom Ausschuss oder Arbeitskreis innerhalb von sechs Wochen ab Überweisung zu beraten und eine Beschlussempfehlung für die FSVK zu beschließen. Wird mit der Überweisung ein neuer Arbeitskreis eingesetzt, so beträgt die Frist acht Wochen. Mit Zustimmung der Antragstellenden kann der Ausschuss oder der Arbeitskreis eine Verlängerung der Beratungsfrist beschließen. Hat der Ausschuss oder der Arbeitskreis nach Ablauf der Beratungsfrist keine Beschlussempfehlung beschlossen, ist der Antrag erneut in den Tagesordnungsvorschlag der nächsten FSVK, die nach <<_2_sitzungstermine, § 2>> ankündigt worden ist, aufzunehmen.
 
 (5) Beschlussempfehlungen sind:
 
@@ -450,31 +467,31 @@ Zur Aufhebung von Beschlüssen bedarf es der Mehrheit der satzungsgemäßen Mitg
 3. Ablehnung des Antrags,
 4. Nicht-Befassung des Antrags.
 
-Die Beschlussempfehlung ist in Textform unverzüglich an das Präsidium weiterzuleiten. Sie ist mit einer Begründung zu versehen. Statt eine Begründung kann auch ein Ausschnitt der Ausschuss- bzw. Arbeitskreisprotokolle, aus der sich die Begründung ergibt, wiedergegeben werden.
+Die Beschlussempfehlung ist in Textform unverzüglich an das Fachschaftenreferat weiterzuleiten. Sie ist mit einer Begründung zu versehen. Statt eine Begründung kann auch ein Ausschnitt der Ausschuss- bzw. Arbeitskreisprotokolle, aus der sich die Begründung ergibt, wiedergegeben werden.
 
-(6) Für die Aufnahme in den Tagesordnungsvorschlag gilt <<_55_einreichung_von_anträgen, § 55 Absatz 1>> entsprechend. Änderungsanträge an die Beschlussempfehlung sind unzulässig. Nach Ende der Aussprache wird über die Beschlussempfehlung abgestimmt. Bei Annahme der Beschlussempfehlung, gilt die Empfehlung als Beschluss des SP. Die Beschlussempfehlung benötigt die gleiche Mehrheit zu Annahme, wie ein entsprechender Antrag benötigen würde. Findet die Beschlussempfehlung keine notwendige Mehrheit ist unmittelbar in die Aussprache und anschließende Abstimmung über den ursprünglichen Antrag einzutreten.
+(6) Für die Aufnahme in den Tagesordnungsvorschlag gilt <<_55_einreichung_von_anträgen, § 55 Absatz 1>> entsprechend. Änderungsanträge an die Beschlussempfehlung sind unzulässig. Nach Ende der Aussprache wird über die Beschlussempfehlung abgestimmt. Bei Annahme der Beschlussempfehlung, gilt die Empfehlung als Beschluss der FSVK. Die Beschlussempfehlung benötigt die gleiche Mehrheit zu Annahme, wie ein entsprechender Antrag benötigen würde. Findet die Beschlussempfehlung keine notwendige Mehrheit ist unmittelbar in die Aussprache und anschließende Abstimmung über den ursprünglichen Antrag einzutreten.
 
 (7) Die Antragstellenden sind zu jeder Sitzung, in der ihr Antrag beraten wird, einzuladen.
 
 === § 60 Ablauf einer Wahl
-(1) Kandidaturen werden durch Mitglieder auf der Sitzung vorgeschlagen. Die Sitzungsleitung hat das passive Wahlrecht der kandidierenden Personen zu überprüfen.
+(1) Kandidaturen werden durch MdFSVK auf der Sitzung vorgeschlagen. Die Sitzungsleitung hat das passive Wahlrecht der kandidierenden Personen zu überprüfen.
 
 (2) Anschließend ist den kandidierenden Personen die Möglichkeit einer Vorstellung zu geben. Nach jeder Vorstellung ist die Aussprache über die Kandidatur zu eröffnen; insbesondere um Frage an die kandidierende Person zu stellen. Fragen müssen nicht beantwortet werden. Die Sitzungsleitung kann Fragen zurückweisen, sofern sie mit der Ordnung und Würde des Parlamentes unvereinbar sind.
 
 (3) Nach dem Schluss der letzten Aussprache ist in den ersten Wahlgang einzutreten. Kandidaturen können jederzeit zurückgezogen werden.
 
-(4) Eine Person ist gewählt, wenn sie in einem Wahlgang die vorgeschriebene ausreichende Anzahl an Stimmen erhält und die Wahl annimmt. Sind nach dem letzten Wahlgang nicht alle zur Wahl stehenden Ämter besetzt, so ist das SP von der Sitzungsleitung zu befragen, ob entweder die restliche Wahl zu vertagen ist oder ob die Wahl beginnend mit Absatz 1 zu wiederholen ist. Bei der Wahl eines Präsidiumsmitgliedes oder eines Mitgliedes des Ausschusses oder Arbeitskreisleitung, entscheidet bei Stimmengleichheit im dritten Wahlgang das Los.
+(4) Eine Person ist gewählt, wenn sie in einem Wahlgang die vorgeschriebene ausreichende Anzahl an Stimmen erhält und die Wahl annimmt. Sind nach dem letzten Wahlgang nicht alle zur Wahl stehenden Ämter besetzt, so ist die FSVK von der Sitzungsleitung zu befragen, ob entweder die restliche Wahl zu vertagen ist oder ob die Wahl beginnend mit Absatz 1 zu wiederholen ist. Bei der Wahl eines Mitgliedes des Ausschusses oder Arbeitskreisleitung, entscheidet bei Stimmengleichheit im dritten Wahlgang das Los.
 
-(5) Die Annahme ist auf der Sitzung gegenüber der Sitzungsleitung, sonst gegenüber dem Präsidium zu erklären. Kann eine gewählte Person nicht sofort über die Annahme befragt werden, ist die Befragung unverzüglich vom Präsidium nach der Sitzung nachzuholen.
+(5) Die Annahme ist auf der Sitzung gegenüber der Sitzungsleitung, sonst gegenüber dem Fachschaftenreferat zu erklären. Kann eine gewählte Person nicht sofort über die Annahme befragt werden, ist die Befragung unverzüglich vom Fachschaftenreferat nach der Sitzung nachzuholen.
 
 === § 61 Wahlverfahren
-Das Verfahren richtet sich nach xref:satzung::index.adoc#_18_wahlen_im_sp[§ 18 der Satzung]. Die Wahlberechtigten können für eine Person, mit „Nein“ oder mit „Enthaltung“ stimmen.
+Das Verfahren richtet sich nach xref:satzung::index.adoc#_18_wahlen_im_sp[§ 18 der Satzung]. Die Wahlberechtigten können für eine Person, mit „Ja“, „Nein“ oder mit „Enthaltung“ stimmen.
 
-=== § 62 Wahl des AStA-Vorstandes
-Zu Beginn der Wahlperiode ist vor der Wahl des AStA-Vorstandes zuerst über die Anzahl der Personen im Vorstand Beschluss zu fassen. Danach kann das SP auf Antrag eine Verringerung oder Erhöhung beschließen. Eine Verringerung jedoch nur, falls die entsprechenden Ämter im Vorstand unbesetzt sind.
+=== § 62 Wahl des Fachschaftenreferates
+Richtet sich nach xref:satzung::index.adoc#_29_wahl_und_abwahl_der_autonomen_referatsmitglieder_durch_die_arv[Satzung §29]
 
 === § 65 Abwahlen
-(1) Anträge auf Abwahl sind von einer Fraktion oder einem Viertel der satzungsgemäßen Mitglieder  SP zu stellen und in Textform beim Präsidium einzureichen. Sie müssen eine Person zur Nachfolge enthalten. <<_55_einreichung_von_anträgen, § 55 Absatz 2 Sätze 1 und 3>> gilt entsprechend.
+(1) Anträge auf Abwahl sind von einem Viertel der MdFSVK zu stellen und in Textform beim Fachschaftenreferat einzureichen. Sie müssen eine Person zur Nachfolge enthalten. <<_55_einreichung_von_anträgen, § 55 Absatz 2 Sätze 1 und 3>> gilt entsprechend.
 
 (2) Abwahlanträge, die bis zur Antragsfrist eingereicht worden sind, sind unter Berücksichtigung von <<_33_gestaltung_der_tagesordnung, § 33>> in die Tagesordnungsvorschlag der nächsten Sitzung, die keine Dringlichkeitssitzung ist, aufzunehmen. Die abzuwählende Person ist gesondert und unverzüglich zu benachrichtigen.
 
@@ -484,33 +501,22 @@ Zu Beginn der Wahlperiode ist vor der Wahl des AStA-Vorstandes zuerst über die 
 
 
 === § 67 Anfragen
-(1) Anfragen sind in Textform bis zur Antragsfrist beim Präsidium einzureichen. Die Anfragen sind vom SP-Präsidium gesondert an die Angefragten weiterzuleiten. Anfragen, die das Abstimmungsverhalten betreffen, sind unzulässig. Für die Aufnahme in den Tagesordnungsvorschlag gilt <<_57_behandlung_von_anträgen, § 57 Absatz 1>> entsprechend.
+(1) Anfragen sind in Textform bis zur Antragsfrist beim Fachschaftenreferat einzureichen. Die Anfragen sind vom Fachschaftenreferat gesondert an die Angefragten weiterzuleiten. Anfragen, die das Abstimmungsverhalten betreffen, sind unzulässig. Für die Aufnahme in den Tagesordnungsvorschlag gilt <<_57_behandlung_von_anträgen, § 57 Absatz 1>> entsprechend.
 
 (2) Alle Mitglieder der Studierendenschaft sind berechtigt Anfragen an
 
-1. die Fraktionen des SP,
-2. einzelne MdSP,
-3. das Präsidium des SP,
-4. einzelne Mitglieder des AStA-Vorstandes,
-5. den AStA-Vorstand,
-6. einzelne Referatsmitglieder,
-7. die Referate und
-8. einzelne Personen auf einer Projektstelle
+1. einzelne MdFSVK,
+2. das Fachschaftenreferat,
 
 zu stellen.
 
-(3) Anfragen müssen in Textform beantwortet werden. Die Antworten müssen dem Präsidium bis mindestens 24 Stunden vor Sitzungsbeginn zugeleitet werden. Wird nicht form- oder firstgerecht eine Antwort eingereicht, wird dies im Protokoll vermerkt. Das Präsidium wird in diesem Fall damit beauftragt, bis zur kommenden Sitzung die Antwort bei den Angefragten einzufordern.
+(3) Anfragen müssen in Textform beantwortet werden. Die Antworten müssen dem Fachschaftenreferat bis mindestens 24 Stunden vor Sitzungsbeginn zugeleitet werden. Wird nicht form- oder firstgerecht eine Antwort eingereicht, wird dies im Protokoll vermerkt. Das Fachschaftenreferat wird in diesem Fall damit beauftragt, bis zur kommenden Sitzung die Antwort bei den Angefragten einzufordern.
 
-(4) Das Präsidium leitet die Antwort spätestens zu Beginn der Sitzung an das fragende Mitglied der Studierendenschaft, die MdSP und über den Mailverteiler sp-offen weiter.
-
-=== § 68 Bestätigungen
-(1) Vorschläge für Bestätigungen von integrierten Referatsmitgliedern und Personen auf Projektstellen werden auf der Sitzung vom AStA-Vorstand, sonst von der Sitzungsleitung oder der zu bestätigten Person selber eingebracht. Mit den Vorschlägen für Stellen im AStA ist dem Präsidium die HHU-E-Mailadresse der vorgeschlagenen Personen zu übermitteln.
-
-(2) Den zu bestätigten Personen ist Gelegenheit zur Vorstellung zu geben. Änderungsanträge an den Vorschlägen sind unzulässig.
+(4) Das Fachschaftenreferat leitet die Antwort spätestens zu Beginn der Sitzung an das fragende Mitglied der Studierendenschaft, die MdFSVK und über den Mailverteiler fs-offen weiter.
 
 == IX. Abschnitt Schriftführung
 === § 69 Protokollierung der Sitzungen
-(1) Die Stellvertretung des Vorsitzes fertigt ein Protokoll der Sitzung an. Im Falle einer Verhinderung übernimmt die Ersatzprotokollführung diese Aufgabe. Ist auch die Ersatzprotokollführung verhindert, hat das SP bzw. der Ausschuss oder Arbeitskreis eine andere Person für diese Sitzung zur Protokollführung zu bestellen.
+(1) Das Fachschaftenreferat fertigt ein Protokoll der Sitzung an. Im Falle einer Verhinderung übernimmt die Ersatzprotokollführung diese Aufgabe. Ist auch die Ersatzprotokollführung verhindert, hat die FSVK bzw. der Ausschuss oder Arbeitskreis eine andere Person für diese Sitzung zur Protokollführung zu bestellen.
 
 (2) Das Protokoll muss enthalten:
 
@@ -525,39 +531,43 @@ zu stellen.
 9. Anfragen und Antworten darauf und
 10. die Unterschrift der Sitzungsleitung und der Protokollführung.
 
-Berichte können im Nachgang bis 5 Tage nach der Sitzung in Textform beim Präsidium bzw. Vorsitz eingereicht werden.
+Berichte können im Nachgang bis 5 Tage nach der Sitzung in Textform beim Fachschaftenreferat eingereicht werden.
 
 (3) Nachnamen werden im Protokoll mit dem ersten Buchstaben abgekürzt. Dies gilt nicht für die Mitglieder in der Anwesenheitsliste und namentliche Abstimmungen. Außerdem gilt dies nicht für die Anwesenheitsliste, für gewählte, bestätigte oder benannte Personen in Protokollexemplaren, die nicht öffentlich bekannt gemacht werden. Das Protokoll soll möglichst weitgehend geschlechtsneutral formuliert werden.
 
 === § 70 Veröffentlichung des Protokolls
 Das vorläufige Protokoll sollte 6 Tage und muss spätestens 13 Tage nach Ablauf der Frist zur Einreichung von persönlichen Erklärungen und Sondervoten öffentlich bekannt gemacht werden. Wird die Frist von 13 Tagen nicht eingehalten, muss dies zu Beginn des Protokolls notiert werden.
 
+NOTE: Das wird sicher gut gehen
+
 === § 71 Genehmigung des Protokolls
-(1) Das Protokoll wird zu Beginn der folgenden Sitzung durch das SP genehmigt, nachdem sich seine Mitglieder von der Richtigkeit überzeugt haben. Über Einsprüche gegen das Protokoll, die nicht von der Protokollführung stattgegeben werden, entscheidet das SP.
+(1) Das Protokoll wird zu Beginn der folgenden Sitzung durch die FSVK genehmigt, nachdem sich seine Mitglieder von der Richtigkeit überzeugt haben. Über Einsprüche gegen das Protokoll, die nicht von der Protokollführung stattgegeben werden, entscheidet die FSVK.
 
 (2) Protokolle von Ausschüssen und Arbeitskreisen gelten als genehmigt, wenn nicht innerhalb von zwei Wochen nach Veröffentlichung Einspruch beim Vorsitz erhoben wird. Bei Einsprüchen ist im Ausschuss oder Arbeitskreis nach Absatz 1 zu verfahren.
 
-(3) Das genehmigte Protokoll wird öffentlich bekannt gemacht. Der AStA archiviert eine Ausfertigung des Protokolls.
+(3) Das genehmigte Protokoll wird öffentlich bekannt gemacht. Des FAchschaftenreferat archiviert eine Ausfertigung des Protokolls.
 
-(4) Das genehmigte Protokoll kann von allen MdSP jederzeit beim Präsidium eingesehen werden.
+(4) Das genehmigte Protokoll kann von allen MdFSVK jederzeit beim Präsidium eingesehen werden.
 
 === § 72 Protokolle von nicht-öffentlichen Sitzungen
-Waren Teile der Sitzung nicht-öffentlich, so sind die Protokollteile darüber nur den MdSP, den betroffenen Ausschüssen und Arbeitskreisen, den Mitgliedern des Rechtsausschusses, dem AStAVorstand sowie den Betroffenen selbst zugänglich.
+Waren Teile der Sitzung nicht-öffentlich, so sind die Protokollteile darüber nur den MdFSVK, den betroffenen Ausschüssen und Arbeitskreisen, den Mitgliedern des Rechtsausschusses, dem AStA-Vorstand sowie den Betroffenen selbst zugänglich.
 
 === § 73 Beschlussausfertigung
-Beschlüsse des SP werden vom Präsidium ausgefertigt, unterzeichnet, und schnellstmöglich, jedoch mindestens innerhalb einer Woche nach der Sitzung öffentlich bekannt gemacht. Für Beschlüsse der Ausschüsse und Arbeitskreise gilt Satz 1 entsprechend, sofern der Ausschuss oder Arbeitskreis stellvertretend für das SP beschließt. An die Stelle des Präsidiums tritt der Vorsitz und die Stellvertretung.
+Beschlüsse der FSVK werden vom Fachschaftenreferat ausgefertigt, unterzeichnet, und schnellstmöglich, jedoch mindestens innerhalb einer Woche nach der Sitzung öffentlich bekannt gemacht. Für Beschlüsse der Ausschüsse und Arbeitskreise gilt Satz 1 entsprechend, sofern der Ausschuss oder Arbeitskreis stellvertretend für die FSVK beschließt. An die Stelle des Fachschaftenreferates tritt der Vorsitz und die Stellvertretung.
 
 === § 74 Dokumentation und Archivierung
-(1) Einladungen, Protokolle und Beschlüsse sind zu archivieren. Dauerbeschlüsse werden durch das Präsidium auf der Webseite des SP dauerhaft veröffentlicht. Sonstige Beschlüsse, Protokolle und Einladungen werden durch das Präsidium für die aktuelle Wahlperiode veröffentlicht.
+(1) Einladungen, Protokolle und Beschlüsse sind zu archivieren. Dauerbeschlüsse werden durch das Fachschaftenreferat auf der Webseite des Fachschaftenreferat dauerhaft veröffentlicht. Sonstige Beschlüsse, Protokolle und Einladungen werden durch das Fachschaftenreferat für die aktuelle Wahlperiode veröffentlicht.
 
-(2) Die Geschäfts- und Schriftführung des Präsidiums ist so zu gestalten, dass beim Amtswechsel sämtliche Vorgänge aus der Dokumentation eindeutig zu rekonstruieren sind. MdSP haben das Recht, die Dokumentation jederzeit einzusehen.
+(2) Die Geschäfts- und Schriftführung des Fachschaftenreferat ist so zu gestalten, dass beim Amtswechsel sämtliche Vorgänge aus der Dokumentation eindeutig zu rekonstruieren sind. MdFSVK haben das Recht, die Dokumentation jederzeit einzusehen.
 
 === § 75 Öffentliche Bekanntmachung
-(1) Sieht diese Geschäftsordnung eine öffentliche Bekanntmachung vor, so erfolgt diese auf der Webseite des SP und über die Mailverteiler sp-offen und sp-intern.
+(1) Sieht diese Geschäftsordnung eine öffentliche Bekanntmachung vor, so erfolgt diese auf der Webseite des Fachschaftenreferat und über den Mailverteiler fs-offen.
 
-(2) Sollte eine Bekanntmachung nach Absatz 1 nicht möglich sein, so kann sie hilfsweise durch öffentlichen Aushang an den Aushangstellen der Studierendenschaft, wenigstens in den Räumlichkeiten des AStA, durchgeführt werden. Eine Bekanntmachung auf der Webseite des SP ist ohne schuldhaftes Zögern (unverzüglich) nachzuholen.
+(2) Sollte eine Bekanntmachung nach Absatz 1 nicht möglich sein, so kann sie hilfsweise durch öffentlichen Aushang an den Aushangstellen der Studierendenschaft, wenigstens in den Räumlichkeiten des AStA, durchgeführt werden. Eine Bekanntmachung auf der Webseite des Fachschaftenreferates ist unverzüglich nachzuholen.
 
 (3) Bekanntmachungen sind mindestens eine Woche zugänglich zu machen.
+
+(4) Sieht diese Geschäftsordnung eine informierung aller Fachschaften vor so ist hierfür der Mailverteiler fs-offen ausreichend.
 
 === § 76 Erklärungen zu Protokoll
 Erklärungen, für die nach dieser Geschäftsordnung Textform vorgeschrieben ist, können auch auf einer Sitzung zu Protokoll gegeben werden.
@@ -567,10 +577,12 @@ Jegliche Kommunikation, für die diese Geschäftsordnung die Textform vorsieht, 
 
 == X. Abschnitt Schlussbestimmungen
 === § 78 Auslegung der Geschäftsordnung
-Ist in einer Sitzung strittig, wie eine Bestimmung dieser Geschäftsordnung auszulegen ist, oder ist das Verfahren strittig, so entscheidet das SP über den Fortgang der Verhandlung. Bei Gleichheit der Stimmen entscheidet die Sitzungsleitung. Gegen diese Entscheidung kann der Rechtsausschuss angerufen werden.
+Ist in einer Sitzung strittig, wie eine Bestimmung dieser Geschäftsordnung auszulegen ist, oder ist das Verfahren strittig, so entscheidet die FSVK über den Fortgang der Verhandlung. Bei Gleichheit der Stimmen entscheidet die Sitzungsleitung. Gegen diese Entscheidung kann der Rechtsausschuss angerufen werden.
 
 === § 79 Abweichungen von dieser Geschäftsordnung
-Abweichungen von den Vorschriften dieser Geschäftsordnung auf Sitzungen des SP können im einzelnen Fall mit zwei Drittel Mehrheit der Abstimmenden, mindestens mit der Mehrheit der satzungsgemäßen Mitglieder beschlossen werden, wenn Bestimmungen der Satzung dem nicht entgegenstehen. Ausschüsse oder Arbeitskreise dürfen nur mit Zustimmung des SP von der Geschäftsordnung abweichen.
+Abweichungen von den Vorschriften dieser Geschäftsordnung auf FSVKs können im einzelnen Fall mit zwei Drittel Mehrheit der Abstimmenden, mindestens mit der Mehrheit der satzungsgemäßen Mitglieder beschlossen werden, wenn Bestimmungen der Satzung dem nicht entgegenstehen. Ausschüsse oder Arbeitskreise dürfen nur mit Zustimmung der FSVK von der Geschäftsordnung abweichen.
 
 === § 80 Inkrafttreten
-Mit Annahme dieser Geschäftsordnung durch mindestens zwei Drittel der satzungsgemäßen Mitglieder des SP ist diese verbindlich. Sie tritt nach der Annahme in Kraft. Änderungen dieser Geschäftsordnungen treten nach der Sitzung in Kraft, es sei denn das SP beschließt etwas Anderes.
+Mit Annahme dieser Geschäftsordnung durch mindestens zwei Drittel der satzungsgemäßen Mitglieder der FSVK ist diese verbindlich. Sie tritt nach der Annahme in Kraft. Änderungen dieser Geschäftsordnungen treten nach der Sitzung in Kraft, es sei denn die FSVK beschließt etwas Anderes.
+
+CAUTION: 2/3 der Satzungemäßen mitglieder sind einfach nicht realistisch...

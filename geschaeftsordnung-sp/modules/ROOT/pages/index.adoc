@@ -240,7 +240,7 @@ dieses in Textform unter Angabe einer Tagesordnung verlangen. Außerdem hat der 
 (4) Die Einberufung ist ordnungsgemäß, wenn die Versendung der Einladung mindestens sieben Tage und höchstens vierzehn Tage vor der Sitzung erfolgt ist. Darüber hinaus können auch außerhalb dieser Frist Sitzungen einberufen werden, die beschlussfähig sind, sofern diese im Einvernehmen mit den Mitgliedern terminiert wurden.
 
 === § 20 Anwendung der Geschäftsordnung
-Die Abschnitte IV bis einschließlich VII dieser Geschäftsordnung gelten sinngemäß auch für Ausschüsse und Arbeitskreise des SP. Bei dem Verfahren in den Ausschüssen und Arbeitskreisen tritt an die Stelle des SP der Ausschuss oder der Arbeitskreis, an die Stelle der MdSP die Mitglieder des Ausschusses oder des Arbeitskreises, an die Stelle der Fraktionen treten die von eine Fraktion benannten ordentlichen und stellvertretenden Mitglieder und an die Stelle des Präsidiums tritt der Vorsitz.
+Die <<_iv_abschnitt_sitzungsdurchführung, Abschnitte IV>> bis einschließlich <<_vii_abschnitt_anträge_zur_geschäftsordnung, VII>> dieser Geschäftsordnung gelten sinngemäß auch für Ausschüsse und Arbeitskreise des SP. Bei dem Verfahren in den Ausschüssen und Arbeitskreisen tritt an die Stelle des SP der Ausschuss oder der Arbeitskreis, an die Stelle der MdSP die Mitglieder des Ausschusses oder des Arbeitskreises, an die Stelle der Fraktionen treten die von eine Fraktion benannten ordentlichen und stellvertretenden Mitglieder und an die Stelle des Präsidiums tritt der Vorsitz.
 
 == IV. Abschnitt Sitzungsdurchführung
 === § 21 Öffentlichkeit
@@ -432,7 +432,7 @@ Auf begründetem Verlangen eines stimmberechtigten MdSP ist über die Nicht-Ordn
 === § 51 Anträge zur Geschäftsordnung im Einzelnen
 Anträge zur Geschäftsordnung (GO-Anträge) sind:
 
-1. Antrag auf Zulassung von Einzelnen zum nicht-öffentlichen Teil der Sitzung nach § 21 Absatz 6,
+1. Antrag auf Zulassung von Einzelnen zum nicht-öffentlichen Teil der Sitzung nach <<_21_öffentlichkeit, § 21 Absatz 6>>,
 2. Antrag auf Einräumung des Rederechts für Personen, die nicht Mitglied der Studierendenschaft sind,
 3. Antrag auf Schluss der Aussprache nach <<_23_aussprache_über_verhandlungsgegenstände, § 23 Absatz 4>> (bei Abstimmung zwei Drittel Mehrheit notwendig),
 4. Antrag auf Wiedereintritt in die Aussprache nach <<_23_aussprache_über_verhandlungsgegenstände, § 23 Absatz 5>> (bei Abstimmung zwei Drittel Mehrheit notwendig),

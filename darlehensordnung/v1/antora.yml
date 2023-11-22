@@ -1,6 +1,0 @@
-name: darlehensordnung
-title: Darlehensordnung
-version: 1
-prerelease: false
-nav:
-- modules/nav.adoc

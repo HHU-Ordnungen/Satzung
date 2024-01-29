@@ -1,5 +1,5 @@
 name: fachbereichsordnung-mnf
-title: Fachbereichsordnung der Mathematisch-Naturwissenschaftlichen Fakultät
+title: Fachbereichsordnung der Math-Nat-Fak
 version: 0
 nav:
 - modules/nav.adoc

@@ -1,0 +1,5 @@
+name: grundordnung
+title: Fachbereichsordnung der Mathematisch-Naturwissenschaftlichen Fakultät
+version: 2
+nav:
+- modules/nav.adoc

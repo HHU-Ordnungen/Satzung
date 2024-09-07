@@ -73,11 +73,11 @@ Rechtsgeschäftliche Erklärungen, durch die die Studierendenschaft verpflichtet
 Ein Amt in der verfassten Studierendenschaft kann nur ausüben, wer Mitglied der Studierendenschaft ist. Dies gilt auch für die Ämter in den Fachschaften. Scheidet ein Mitglied aus der Studierendenschaft durch Exmatrikulation oder durch Tod aus, verliert es zugleich alle Ämter in der verfassten Studierendenschaft.
 
 === § 9 Ausfertigung und In‐Kraft‐Treten von Satzungen und Ordnungen
-(1) Die Ordnungen und Satzungen der Studierendenschaft und der Fachschaften sind nach der Beschlussfassung der zuständigen Organe vom SP-Präsidiumsvorsitz auszufertigen.
+(1) Die Ordnungen und Satzungen der Studierendenschaft und der Fachschaften sind nach der Beschlussfassung der zuständigen Organe vom SP-Präsidium auszufertigen. Ist das beschlussfassende Organ nicht das SP, so leitet das beschlussfassende Organ die erlassene Ordnung und/oder Satzung dem SP-Präsidium zur Ausfertigung unverzüglich zu.
 
 (2) Die Ordnungen und Satzungen der Studierendenschaft treten gemäß https://recht.nrw.de/lmi/owa/br_bes_detail?sg=0&menu=0&bes_id=28364&anw_nr=2&aufgehoben=N&det_id=593985[§ 53 Absatz 4 Satz 3 Hochschulgesetz] am Tage nach ihrer Veröffentlichung in den Amtlichen Bekanntmachungen der Heinrich-Heine-Universität Düsseldorf in Kraft.
 
-(3) Die Ordnungen und Satzungen der Fachschaften treten am Tage nach ihrer Veröffentlichung in den Amtlichen Bekanntmachungen der Studierendenschaft der Heinrich-Heine-Universität Düsseldorf in Kraft. Das Nähere regelt die Bekanntmachungsordnung.
+(3) Die Ordnungen und Satzungen der Fachschaften treten am Tage nach ihrer Veröffentlichung in den Amtlichen Bekanntmachungen der Studierendenschaft der Heinrich-Heine-Universität Düsseldorf in Kraft. Die Amtlichen Bekanntmachungen der Studierendenschaft der Heinrich-Heine-Universität Düsseldorf sind über die Webseite des SP sowie über die gängigen Emailverteiler des SP und der Fachschaften zu veröffentlichen. Zudem müssen die Fachschaften die Ordnungen und Satzungen auf ihren eigenen Plattformen verbreiten.
 
 === § 10 Studentische Vereinigungen
 Die studentischen Vereinigungen an der Universität tragen zur politischen Willensbildung bei. Sollte die Universität bei der Ausübung dieser gesetzlichen Aufgabe Kosten auferlegen, soll die Studierendenschaft hierfür finanzielle Unterstützung gewähren. Nur insoweit studentische Vereinigungen sich im Aufgabenbereich der Studierendenschaft (<<_2_aufgaben_der_studierendenschaft,§ 2 Absatz 1>>) betätigen, können sie insbesondere unter Beachtung des Neutralitätsgebots finanziell durch die Studierendenschaft unterstützt werden. Das Nähere wird im Haushaltsplan der Studierendenschaft bestimmt.
@@ -372,7 +372,7 @@ c. einstimmigen Beschluss des Vorstandes und Zustimmung des SP mit der Mehrheit 
 
 1. über die Auslegung dieser Satzung, vom SP erlassener Ordnungen, von Beschlüssen des SP, sowie der Geschäftsordnungen der Organe der Studierendenschaft aus Anlass von Streitigkeiten über den Umfang der Rechte und Pflichten eines Studierendenschaftorgans, eines Fachschaftorgans, ihrer Teilorgane oder der Mitglieder dieser Organe oder Teilorgane (Organstreit);
 2. über die Anträge von Studierenden, die mit der Behauptung gestellt werden in einem ihrer Rechte durch die Studierendenschaft oder eine Fachschaft verletzt worden zu sein (Individualbeschwerde);
-3. über Einsprüche gegen Wahlen in der Studierendenschaft (Wahlprüfungsverfahren), sofern nicht die Wahlordnung die Wahlprüfung im Einzelfall einem anderen Gremium überträgt;
+3. über Einsprüche gegen Wahlen in der Studierendenschaft (Wahlprüfungsverfahren), sofern nicht die Wahlordnung die Wahlprüfung im Einzelfall einem anderen Gremium überträgt. Eine nachgelagerte rechtliche Prüfung des Wahlprüfungsergebnisses durch den Rechtsausschuss ist weiterhin möglich;
 4. in sonstigen durch eine Satzung, Ordnung oder Geschäftsordnung zugewiesenen Fällen.
 
 (3) Der RA berät den AStA-Vorsitz in Bezug auf Beanstandungen nach <<_26_der_vorsitz_des_asta, § 26 Absatz 3>> (Beanstandungsverfahren).
@@ -525,7 +525,7 @@ Eine Fachschaft hat folgende Aufgaben:
 1. eine Änderung dieser Satzung zur Anpassung des <<_44_fachschaften, § 44 Absatz 3>>, sofern Fachschaften dort einzufügen, umzubenennen oder zu streichen sind, um die Neugliederung in der Satzung nachzuvollziehen;
 2. eine Änderung der Zuordnungsordnung zur Anpassung an die neue Gliederung;
 3. eine Regelung bezüglich der Besetzung der zu wählenden Fachschaftsorgane für jede Fachschaft, die nach erfolgter Neugliederung von dieser betroffen sein wird und sich nach der geänderten Zuordnungsordnung allein aus Mitgliedern zuvor bestehender Fachschaften zusammensetzen wird, bis zur Neuwahl dieser Organe;
-4. eine Regelung bezüglich der Verwendung der Rückstellungen gemäß <<_85_übertragung_von_befugnissen_der_kassenverwaltung, § 85 Absatz 8>>, der bereits zugewiesenen Finanzmittel und der Verwendung der Ausstattung derjenigen bestehenden Fachschaften, die von der Neugliederung betroffen sind.
+4. eine Regelung bezüglich der Verwendung der Rückstellungen gemäß <<_84_finanzen_der_fachschaften, § 84 Absatz 8>>, der bereits zugewiesenen Finanzmittel und der Verwendung der Ausstattung derjenigen bestehenden Fachschaften, die von der Neugliederung betroffen sind.
 
 Enthält der Beschluss eine Änderung dieser Satzung, so ist zu Neugliederung zusätzlich ein gleichlautender Beschluss des SP notwendig. Eine Neugliederung kann nicht durch eine Urabstimmung beschlossen werden.
 
@@ -619,7 +619,7 @@ Ist kein FSR im Amt, so kann die Einberufung auch gegenüber dem Fachschaftenref
 
 (4) Eine zwei Drittel Mehrheit der Abstimmenden ist erforderlich
 
-1. für die Aufhebung von Beschlüsse der FSVV,
+1. für die Aufhebung von Beschlüssen der FSVV,
 2. für die Beschlussfassung über die Satzung der Fachschaft,
 3. im Falle des <<_48_neugründung_oder_zusammenlegung_von_fachschaften, § 48 Absatz 2>> für die Zustimmung zur Neugliederung der Fachschaften,
 4. um gemäß <<_49_umbenennung_einer_fachschaft, § 49>> eine Umbenennung der Fachschaft zu beantragen
@@ -666,7 +666,7 @@ Ist kein FSR im Amt, so kann die Einberufung auch gegenüber dem Fachschaftenref
 
 (3) Im Falle einer indirekten Wahl endet die Amtszeit mit dem Zusammentritt der neu gewählten FSV. Bis zur Neuwahl des FSR hat der bisherige FSR die Geschäfte weiterzuführen. Darüber hinaus endet die Amtszeit, wenn die Wahlperiode der FSV gemäß <<_64_wahl_und_zusammensetzung_der_fsv, § 64 Absatz 4 Satz 2>> endet. In diesen Fall ist der FSR nicht zur Weiterführung der Geschäfte befugt.
 
-(4) Die Amtszeit von Referatsmitgliedern endet vorzeitig durch
+(4) Die Amtszeit von Ratsmitglieder endet vorzeitig durch
 
 a. Verlust der Amtsfähigkeit in der Studierendenschaft gemäß <<_8_amtsfähigkeit_in_der_studierendenschaft, § 8>>,
 b. Ausscheiden aus der Fachschaft,
@@ -694,7 +694,7 @@ Die FSV kann Mitglieder des FSR nur einzeln abwählen, indem sie mit der Mehrhei
 
 (3) Der FSR beschließt entweder einen regelmäßigen Termin für die Sitzungen oder beschließt den Termin der nächsten Sitzung jedes Mal neu. In diesen Fällen muss keine Einladung an die Mitglieder ergehen.
 
-(4) Die Sitzungskoordination kann über die nach Absatz 2 vereinbarten Termine hinaus Sitzungen einberufen, wenn die Wahrnehmung der Aufgaben des FSR es erfordern. Sie ist zur Einberufung verpflichtet, wenn mehr als die Hälfte der Mitglieder dieses verlangen.
+(4) Die Sitzungskoordination kann über die nach Absatz 3 vereinbarten Termine hinaus Sitzungen einberufen, wenn die Wahrnehmung der Aufgaben des FSR es erfordern. Sie ist zur Einberufung verpflichtet, wenn mehr als die Hälfte der Mitglieder dieses verlangen.
 
 (5) Sitzungstermine sind mindestens drei Tage vor der Sitzung an den üblichen Veröffentlichungsstellen der Fachschaft bekanntzugeben. Im Falle einer dringlichen Einberufung genügt die Bekanntgabe des Termins unverzüglich nach der Einladung.
 
@@ -709,7 +709,7 @@ Die FSV kann Mitglieder des FSR nur einzeln abwählen, indem sie mit der Mehrhei
 
 (3) In eine Einladung kann ein Ersatztermin aufgenommen werden für den Fall, dass die einberufene Sitzung wegen Beschlussunfähigkeit nicht zustande kommt. Diese Einladung gilt dann auch für den Ersatztermin. Absatz 2 Satz 4 gilt entsprechend.
 
-(4) Wird Beschlussunfähigkeit festgestellt, können statt der Einberufung zu einer neuen Sitzung im Nachgang zur Sitzung über die Anträge dieser Sitzung auch außerhalb einer Sitzung Beschluss gefasst werden (Umlaufbeschluss). Darüber hinaus kann der FSR beschließen allgemein oder in bestimmten Aufgabengebieten die Beschlussfassung außerhalb von Sitzungen zu zulassen.
+(4) Wird Beschlussunfähigkeit festgestellt, können statt der Einberufung zu einer neuen Sitzung im Nachgang zur Sitzung über die Anträge dieser Sitzung auch außerhalb einer Sitzung Beschluss gefasst werden (Umlaufbeschluss). Darüber hinaus kann der FSR beschließen allgemein oder in bestimmten Aufgabengebieten die Beschlussfassung außerhalb von Sitzungen zuzulassen.
 
 (5) Soweit diese Satzung, die Satzung der Fachschaft oder eine Ordnung nichts Anderes bestimmen, verlieren Beschlüsse mit Ende der Wahlperiode ihre Gültigkeit. Dies gilt nicht für Dauerbeschlüsse. Dauerbeschlüsse verlieren nach 10 Jahren ihre Gültigkeit, es sei denn sie werden erneut vom FSR bestätigt. Ebenso verlieren Beschlüsse der FSVV, die stellvertretend für den FSR gefasst worden, mit Ende der Wahlperiode des FSR ihre Gültigkeit.
 
@@ -807,7 +807,7 @@ c. für den Antrag mehr Ja-Stimmen als Nein-Stimmen abgegeben wurden.
 6. die Koordination fächerübergreifenden Aktivitäten der Studierenden zu unterstützen;
 7. die einzelnen Fachschaften bei der Herstellung einer nachhaltigen und funktionsfähigen Arbeitsstruktur zu unterstützen;
 8. darauf hinzuwirken, dass eine kontinuierliche Vertretung der Studierenden aller Studienfächer gewährleistet ist;
-9. über den Verteilungsschlüssel bezüglich der Verteilung der Zuweisungen an die Fachschaften gemäß <<_78_feststellung_und_in_kraft_treten_des_haushaltsplans, § 78 Absatz 3>> zu beschließen;
+9. über den Verteilungsschlüssel bezüglich der Verteilung der Zuweisungen an die Fachschaften gemäß <<_76_beiträge, § 76 Absatz 3>> zu beschließen;
 
 über die Rahmengeschäftsordnung der Fachschaften zu beschließen.
 

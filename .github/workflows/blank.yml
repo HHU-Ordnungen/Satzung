@@ -1,11 +1,9 @@
 name: CI
 on:
   push:
-    branches: [ 'v*']
-  pull_request:
     branches: [ 'v*' ]
   workflow_dispatch:
-  
+
 jobs:
   trigger_build:
     runs-on: ubuntu-latest

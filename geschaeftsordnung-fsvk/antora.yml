@@ -1,6 +1,0 @@
-name: geschaeftsordnungfsvk
-title: Geschäftsordnung der FSVK
-version: 0
-prerelease: true
-nav:
-- modules/nav.adoc

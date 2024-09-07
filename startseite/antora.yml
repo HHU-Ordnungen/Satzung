@@ -1,5 +1,0 @@
-name: startseite
-title: Startseite
-version: ~
-nav:
-- modules/nav.adoc

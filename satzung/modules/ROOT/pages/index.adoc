@@ -1,5 +1,7 @@
 = Satzung der Studierendenschaft der Heinrich-Heine-Universität Düsseldorf
 
+include::util::disclaimer.adoc[]
+
 == Abschnitt I Die Studierendenschaft und ihre Mitglieder
 
 === § 1 Begriffsbestimmung und Rechtsstellung

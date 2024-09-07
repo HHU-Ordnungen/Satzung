@@ -86,7 +86,7 @@ Bei Antragstellung sind vorzulegen:
 
 (4) Wird bei der Prüfung gemäß Absatz 1 Nummer 2 festgestellt, dass die Formvorschriften nicht oder nur teilweise erfüllt wurden, ist dies den jeweiligen Antragstellenden mitzuteilen und eine angemessene Frist zur Behebung der Mängel zu gewähren. Werden die Mängel bis zum Ablauf der Frist nicht behoben, ist der Antrag aus formellen Gründen abzulehnen und die jeweiligen Antragstellenden unverzüglich über die Ablehnung zu informieren.
 
-== § 9 Inhaltliche Prüfung
+=== § 9 Inhaltliche Prüfung
 (1) Der GDA entscheidet einstimmig anhand des vorliegenden Antrags über die Darlehensgewährung und die Darlehensmodalitäten gemäß <<_12_rückzahlungsmodalitäten, § 12>>. Sieht er sich dazu nicht imstande, können weitere Nachweise von den Antragstellenden und ggf. deren Ehepartnern angefordert oder eine ergänzende Stellungnahme des Finanzreferates eingeholt werden.
 
 (2) Das Darlehen kann gewährt werden, wenn

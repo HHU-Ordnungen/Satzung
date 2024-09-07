@@ -276,13 +276,13 @@ Das SP kann Mitglieder des Vorstandes nur einzeln abwählen, indem es mit der Me
 
 (2) Zur Erfüllung dieser Aufgaben müssen den autonomen Referaten ausreichende besondere Mittel aus dem Haushaltsplan zur Verfügung gestellt werden.
 
-(3) Die autonomen Referate sind: das Referat für Internationale Studierende (IStRef), das Fachschaftenreferat, das Frauenreferat, das LesBi-Referat, das Referat für bisexuelle und schwule Studierende, das Referat für Barrierefreiheit und das Referat für trans, inter und nicht-binäre Studierende (TINBy-Referat).
+(3) Die autonomen Referate sind: das Referat für Internationale Studierende (IStRef), das Fachschaftenreferat, das Feministisches Referat, das LesBi-Referat, das Referat für bisexuelle und schwule Studierende, das Referat für Barrierefreiheit und das Referat für trans, inter und nicht-binäre Studierende (TINBy-Referat).
 
 (4) Die Wahl und die Abwahl der Referatsmitglieder der autonomen Referate erfolgt durch:
 
 * IStRef: autonome Referatsvollversammlung (aRV)
 * Fachschaftenreferat: FSVK
-* Frauenreferat: aRV
+* Feministisches Referat: aRV
 * LesBi-Referat: aRV
 * Referat für bisexuelle und schwule Studierende: aRV
 * Referat für Barrierefreiheit: aRV
@@ -972,7 +972,7 @@ Die Jahresabschlussprüfung erstreckt sich auch auf die Haushaltsführung der Fa
 
 (2) Die Fachschaften haben für jedes Haushaltsjahr einen Haushaltsplan und etwaige Nachträge aufzustellen und festzustellen. <<_77_aufstellen_des_haushaltsplans, § 77 Absatz 2>> gilt entsprechend. Der Haushaltsplan ist mit dem Antrag nach Absatz 1 für das am Beginn des Haushaltsjahres laufenden Wintersemesters vorzulegen.
 
-(3) Beschlüsse über die Verwendung der zugewiesenen Finanzmittel der Fachschaft können nur vom FSR oder der FSVV gefasst werden. Der FSR unterliegt dabei der Richtlinienkompetenz der FSVV. Beschließt die FSVV keine Regelungen über die Mittelverwendung, entscheidet der FSR in eigener Kompetenz. <<_82_finanzbeschlüsse, § 82 Absatz 5 und 6>> gilt entsprechend. <<_82_finanzbeschlüsse, § 82 Absatz 3>> gilt mit der Maßgabe entsprechend, dass an Stelle des AStA-Vorstandes der Fachschaftsrat tritt und an die Stelle des SP die Fachschaftsvollversammlung. Satz 1 gilt nicht für das Leisten einer Ausgabe auf Grund einer rechtlichen Verpflichtung, der die Studierendenschaft unterliegt und der Fachschaft zuzurechnen ist.
+(3) Beschlüsse über die Verwendung der zugewiesenen Finanzmittel der Fachschaft können nur vom FSR oder der FSVV gefasst werden. Der FSR unterliegt dabei der Richtlinienkompetenz der FSVV. Beschließt die FSVV keine Regelungen über die Mittelverwendung, entscheidet der FSR in eigener Kompetenz. <<_82_finanzbeschlüsse, § 82 Absatz 5, 6 und 7>> gilt entsprechend. <<_82_finanzbeschlüsse, § 82 Absatz 3>> gilt mit der Maßgabe entsprechend, dass an Stelle des AStA-Vorstandes der Fachschaftsrat tritt. Für Beträge, die 500 Euro ohne Umsatzsteuer überschreiten, ist die Zustimmung der FSVV notwendig. Satz 1 gilt nicht für das Leisten einer Ausgabe auf Grund einer rechtlichen Verpflichtung, der die Studierendenschaft unterliegt und der Fachschaft zuzurechnen ist.
 
 (4) Sofern die Bildung einer Fachschaftsvertretung für eine Fachschaft vorgesehen ist, tritt in Absatz 3 an die Stelle der Fachschaftsvollversammlung die Fachschaftsvertretung.
 
@@ -980,7 +980,7 @@ Die Jahresabschlussprüfung erstreckt sich auch auf die Haushaltsführung der Fa
 
 (6) Kassenanordnungen aufgrund von Beschlüssen im Sinne des Absatzes 3 müssen vom AStA unverzüglich, spätestens innerhalb von 4 Wochen ausgeführt werden. Die Frist beginnt mit Eingang der ordnungsgemäßen ausgefüllten Kassenanordnung beim Finanzreferat. Bei verzögerter Ausführung ist der AStA zur Erstattung eventuell daraus resultierender Kosten verpflichtet. Liegt für das laufende Haushaltsjahr noch kein Haushaltsplan der Fachschaft vor, so kann die Ausführung einstweilen verweigert werden.
 
-(7) Jedes Mitglied der Fachschaft hat das Recht, bei der finanzbeauftragten Person Einsicht in die Finanzen der Fachschaft zu erhalten, wenn dieses mindestens 3 Prozent der Mitglieder der Fachschaft schriftlich verlangen. Die Einsicht muss innerhalb von zwei Wochen gewährt werden.
+(7) Jedes Mitglied der Fachschaft hat das Recht, bei der finanzbeauftragten Person Einsicht in die Finanzen der Fachschaft zu erhalten, wenn dieses mindestens 3 Prozent der Mitglieder der Fachschaft schriftlich verlangen. Jedes Mitglied des Fachschaftsrats und der FSV hat dieses Recht von Amts wegen. Die Einsicht muss innerhalb von zwei Wochen gewährt werden und gilt nicht für schützenswerte personenbezogene Daten.
 
 (8) Nicht innerhalb eines Haushaltsjahres verausgabte Zuweisungen an eine Fachschaft sind als Rückstellung in das nächste Haushaltsjahr zu übernehmen. Die rückgestellten Zuweisungen sind im nächsten Haushaltsjahr den Fachschaften erneut zu zuweisen.
 

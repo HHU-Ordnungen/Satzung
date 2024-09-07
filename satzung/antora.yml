@@ -1,5 +1,6 @@
 name: satzung
 title: Satzung
-version: 2
+version: 3
+prerelease: true
 nav:
   - modules/nav.adoc
